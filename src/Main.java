@@ -1,18 +1,19 @@
 import com.restfb.Connection;
 import com.restfb.DefaultFacebookClient;
 import com.restfb.FacebookClient;
+import com.restfb.Version;
 import com.restfb.types.*;
-
-import java.util.ArrayList;
+import javax.swing.*;
 import java.util.List;
 
 public class Main {
 
     public static void main(String[] args) {
 
-        String acessToken = "EAAZAaireI4ZAQBAKUC2PBLfSjFlPNYlSjahSpNsDaGJKcPjTwRqwYZC2CkC3KxOW4EDiulvwoIYHbFvJUwYOwE7WtccWnmIZAOcm0aav24Q8s3vlQfCapYq7K8YKdfmdhyGZBZAg1mfBEIB8vC6yZCYOKjlHBbA0JDZBty3HMQsPoEZCgvH2Y4GxmQxseQnKEjZBQZD";
+        Autenticadora autenticadora = new Autenticadora("1788401691451796","968d4a0564aa0ee349356b9b194dc945");
 
-        FacebookClient fbClient = new DefaultFacebookClient(acessToken);
+        FacebookClient fbClient = new DefaultFacebookClient(autenticadora.gettoken(), Version.LATEST);
+
 
        /* Connection<Post> result = fbClient.fetchConnection("me/feed", Post.class);
 
@@ -27,7 +28,7 @@ public class Main {
 
         Connection <Post> postFeed = fbClient.fetchConnection(page.getId()+"/feed",Post.class);
 
-        List<Comment> comments=new ArrayList<>();
+
         for (List<Post> postPage: postFeed){
             for (Post aPost: postPage){
                 if(aPost.getId().equals("114219621960016_1430463993668899")) {
@@ -47,6 +48,14 @@ public class Main {
             }
 
         }
+        /*JFrame frame = new JFrame("Autenticar");
+        frame.setContentPane(new autenticar().panel_autenticar);
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        frame.pack();
+        frame.setVisible(true);
+        frame.setSize(600,400);
+        frame.setLocationRelativeTo(null);*/
+
     }
 
 
