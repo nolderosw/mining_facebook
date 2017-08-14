@@ -1,13 +1,13 @@
+/**
+ * Created by wesley150 on 10/08/17.
+ */
+
 import com.restfb.Connection;
 import com.restfb.FacebookClient;
 import com.restfb.Parameter;
 import com.restfb.types.Page;
 
-import java.util.List;
 
-/**
- * Created by wesley150 on 10/08/17.
- */
 public class SearchPages {
 
     private FacebookClient fbClient;

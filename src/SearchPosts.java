@@ -1,11 +1,12 @@
-import com.restfb.Connection;
-import com.restfb.FacebookClient;
-import com.restfb.types.Page;
-import com.restfb.types.Post;
 
 /**
  * Created by wesley150 on 10/08/17.
  */
+
+import com.restfb.Connection;
+import com.restfb.FacebookClient;
+import com.restfb.types.Post;
+
 public class SearchPosts {
     private FacebookClient fbClient;
     private Connection<Post> results;
