@@ -9,5 +9,8 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="restfb-2.0.0-rc.3" level="project" />
     <orderEntry type="library" name="restfb-2.0.0-rc.31" level="project" />
+    <orderEntry type="library" name="cogroo-addon-pt_br" level="project" />
+    <orderEntry type="library" name="cogroo-ann-4.0.0" level="project" />
+    <orderEntry type="library" name="mongo-java-driver-3.5.0" level="project" />
   </component>
 </module>
