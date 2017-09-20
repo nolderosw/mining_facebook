@@ -1,0 +1,2628 @@
+@relation comentarios
+@attribute comment string
+@attribute classe {positivo, negativo, neutro}
+@data
+"bob's brasil hoje mesmo fui comprar o meu e adorei, parabens por sempre fazer coisas boas", ?
+"só fã de rock más juntar isso ao anburgye eu viro o numero 1 dos fãs dó universo", ?
+"muito bom.... adorei, comprei o meu no bob's itaboraí plaza... excelente!!! <3", ?
+"acabei de efetuar uma compra no bob's localizado no north shopping fortaleza e tive uma péssima experiência. funcionários mal educados e despreparados.  tive a impressão que eles não são pagos para atender os clientes. selecionem melhor seus funcionários, e a moça que por sinal é altamente despreparada para lidar com o público se negou em me informar seu nome. 😒😒 descepcionada😣😣😣😣", ?
+"achei pequeno demais,mesmo que o nome seja mini bob se você não tiver almoçado mal culpa espaço na barrigamas é gostoso", ?
+"deveriam fiscalizar o desempenho dos funcionários que trabalham mal na loja do bobs do shop paulista. uma de braços cruzados conversando e falta de produtos para vender. absurdo!!", ?
+"vocês deveriam fechar o bob's no posto forza, em são joão de meriti-centro, não respeitam os molhos dos hambúrgueres, não tem coca cola zero, nunca tem suco de laranja, funcionários no ato do pagamento não informa que não tem o que se pede. essa franquia deveria pagar multa, por tanta incompetência, não existe gerenciamento. lamentável !!!", ?
+"fui ao bob's em são roque e o atendimento além de demorado foi péssimo a equipe que trabalha lá e muito mal organizada e leva pal atoa tem bastate funcionários la pra ser a demora que foi além disso acho que o copo de refrigerante grande não é de 400 ml até por que se for isso é um roupo pelo preço que é um bob's  picanha tamanho g achei um absurdo espero que corrijam isso!", ?
+"fui a um dos bob's localizado no rio de janeiro e tive uma tremenda decepção. esperei mais de 30 minutos para ser atendida e quando o atendente pegou minha nota fiscal, ele a rasgou(procedimento comum nas franquias pois assim significa que o pedido foi entregue) e não montou meu pedido, pelo contrario, saiu e foi fazer outra coisa. depois veio a gerente do estabelecimento e olhou a nota e disse que eu havia já retirado o pedido,  eu disse que não,  pois o procedimento de rasurar a nota foi feito erroneamente pelo o outro funcionário o qual me deixou sem concluir o atendimento. a gerente então  começou a montar meu pedido e colocou um sanduíche que já estava a horar pronto e frio na bandeja e para minha surpresa depois disso saiu e me deixou esperando outro funcionário me atender. por fim quando o terceiro funcionário foi me atender, consegui pegar meu pedido. que descaso com o cliente, parecia que estava pedindo um favor ou comida de graça. não irei mais , estou decepcionada com o bob's.", ?
+"mais alguém com dificuldade na hora de finalizar o cadastro no bobs fã? estou tentando pegar o trio para participar do sorteio pro rock in rio, e simplesmente diz que já tem cadastro no meu email. claro que tem, estou logado com ele ._.", ?
+"esse é o lindo e maravilhoso sanduíche que vcs servem para os paraense no shopping castanheira. super mal atendida quando fui reclama.", ?
+"esses dias fui ao bobs que se localiza no shoping benfica em fortaleza, nunca fui de boicotar empresa alguma ja mais, até pq tbm trabalho com atendimento ao cliente.e fui muito mal tratado, funcionários mal educados e parecem estar la a força.pela segunda vez q frequento e todas as duas tive uma experiência ruim.prometi a mim mesmo que não voltarei mais.me desculpe melhorem o atendimento do seu estabelecimento.", ?
+"hoje fui no bob's drive de mossoró rn , os atendentes são muito mau educados e além de tudo o hambúrguer veio minúsculo , menor do que o normal , nunca mais volto lá", ?
+"hoje eu e minha prima viemos ao boba como tenho cadastro  no boba da peguei um cupom para a loja bangu shopping  até te sabemos que não seria igual  se fosse fora da promoção  agora colocar um mini hambúrguer  e apresentação  horrível do mesmo descipsionada com bobs que horrível o hambúrguer  apresentado", ?
+"atenção bob's, franquear não é só emprestar o nome, acabei de comer um pseudo big bob na loja do shopping studio 5 em manaus e nem de longe lembra um big bob, nem no sabor nem na aparência, o pão não é o mesmo e nem a carne, sanduíche praticamente seco e sem molho. a batata também é diferente.", ?
+"bobs do aeroporto santa genoveva goiania super indico um otimo local para se fazer um lanche gostoso e bem feito na madrugada passei la ontem por volta das 02:00 hrs um otimo atendimento as meninas muito educadas no atendimento adorei voltarei mais vezes la pra fazer aquele lanche continuem assim parabens pela escolha das atendentes 😀😍👏👏", ?
+"olha meu sundae, olha essa vergonha. pouca castanha, sorvete mole, e esse copo. batata sem sal e mole. uma vergonha.", ?
+"cheddar m que comprei no bobs, nossa que porcaria de lanche, a carne é péssima, acho que foi esquentada na hora do almoço. bobs cade o controle de qualidade ou é assim memso todos os lanches...???, fui falar com gerente loja e não estava.", ?
+"o hamburguer normal já é pequeno esse ai deve ser do tamanho de uma bisnaguinha...", ?
+"- já ganhei 3 copos , azul , verde e vermelho , tem mais cores?  são quantos copos? quero colecionar <3", ?
+"não compro nada no bob's do shopping beira mar de floripa as atendentes vão no banheiro e não lavam as mãos, além de serem umas mal educadas .sem falar que a batata vem praticamente quase queimada 😕", ?
+"acabei de ser roubada no bobs. de xerem a gerente insiste em afirmar que isso é um bigbob.", ?
+"já corri e garanti o meu,ameiii essa promoção já quero continuar com a coleção de copos são muito lindos.😍", ?
+"amor vamos no bob's!! preciso continuar minha coleção de copos 💟💟 gabriel 💙💙", ?
+"ja tenho o azul eo vermelho.parabéns bob's essa promoção foi muito satisfatoria a meu gosto ❤❤❤❤❤,tem algum site em que eu possa avaliar o atendimento eo lanche?", ?
+"fui no caxias shopping, aqui na minha cidade e o hambúrguer veio completamente queimado,ao ir reclamar com um funcionário o mesmo foi grosso e arrogante me perguntando se nunca queimei algo! super grossos, não recomendo", ?
+"nunca havia ido ao bobs, ontem fui conhecer e tive uma péssima experiência. fui no do shopping são bernardo plaza e fui muito mal atendida, nunca demorei tanto pra comer em um fast food, uns 15m, parece ate que estamos pedindo algo não pagando. esse tal de rock in trio deixou a desejar, paguei 28,50 e não achei graça mas o pior foi o atendimento,  acho que esses funcionários deveriam ser mais bem preparados pq ngm tem culpa dos problemas deles. não sinto nenhuma vontade de retornar, por isso vive vazio!", ?
+"fui na unidade de betim hj e primeiro fato a atendente fez o pedido e ao chegar veio faltando lanche,segundo um cliente ao nosso lado presenciou o caixa indo fazer um hambúrguer sem lavar as mãos .e o pior fato de todos minha filha ao comeu seu hambúrguer tinha um cabelo dentro dele .era um fio de cabelo pequeno mais algo muito nogento .uma pena .", ?
+"já tenho todos eles, massa!", ?
+"primeiro de muitos rs", ?
+"bobs ❤", ?
+"hummmm delícia", ?
+"já provei e gostei muito! bob's está de parabéns!", ?
+"os outros já eram mini bobs esse novo deve ser nano bobs", ?
+"manu seus amigos se comunicando kkkkkkk", ?
+"quais tipos de cartões o bob's aceita?", ?
+"como funciona a promoção?", ?
+"os bob's de resende já tem ?! 🤔", ?
+"qual o preço?", ?
+"veio esse  e sem a cebola.. #decepcionada  💔", ?
+"amei os copos! ja tenho 2....", ?
+"isso vale para todo o brasil?", ?
+"graah campos, bora lá buscar o nosso 🤘kkkk", ?
+"kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk mano o supla kkkkkkkkkkkkkkkkkkkkk", ?
+"mais uma desculpa esfarrapada da mídia...propaganda usada para adorar a besta, e muitos acham q é só uma propaganda legal ...  acorda tu que dormes .jesus te ama.", ?
+"paulo ferreira aline ribeiro bora?", ?
+"o diado ta deitando é rolando.  meu deus siblo satanismo ta repreendido nobnome de jesus cristo", ?
+"símbolo satânico q as pessoas acham ser radical", ?
+"estes símbolos que eles estão fazendo significa: louvai o diabo. é só pesquisar e você verá a origem dele. não faça estes símbolos.", ?
+"pros trouxas de plantão, entenda o que é o símbolo, se não souber quem é dio, aí se mata: ...dio, então, decidiu resgatar suas memórias infantis. “é um símbolo italiano que aprendi com minha avó e que se chamava ‘malocchio’. serve para afastar o mau-olhado ou para fazer o mau-olhado, dependendo de como você o faz”, declarou dio, certa vez, em entrevista ao site “metal-rules”. ....seus animais...", ?
+"ronaldo...bora pro bob's buscar esses copo mahkkkkkkkkkk3 hambúrguer daora cara!e tem batata fritaaaaaaa", ?
+"gente não gostei desse comercial ele tem um símbolo satânico você sabe o que esse símbolo é satânico🤘🤘🤘🤘🤘🤘🤘🤘", ?
+"luana ratico pelooo amor de deus temos que ir comer esse trio 😱😍", ?
+"coisa  diabólica.coisa.satanica.....ai.esta.mais.um.sinal.de.que.jesus. esta.voltando........aceita.jesus. é.sera.salvo", ?
+"eu já tenho o meu 🤘!!! bob's rock da coca-cola!!", ?
+"alguém falou copo?? pedro valera", ?
+"estou indo ao bob's mais próximo kkk", ?
+"orgulho de ser funcionária ♥️ #monitorasim", ?
+"top quero um", ?
+"muito legal vey", ?
+"legal gostei", ?
+"breno quero o copo!", ?
+"é esse ai mainha,  é uma delicia leily jane", ?
+"e aí, gatinha? vamo?isadora silva", ?
+"amanda quero esses copos 😻😻", ?
+"\o/", ?
+"lucas santos só prestei atenção em 'três minis burgues'", ?
+"o lanche é bom eu ja comi.mais misericórdia ate onde sera que o povo vai ser enganado usando uma coisa para mostrar outra .imagens subliminares e satânicas o povo esta se deixando levar por tão pouco, que ainda acaba repetindo  esse tipo de coisa.só deus na causa mesmo. pq a cada dia esse tipo de coisa esta se mostrando se envolver no meio do povo e se tornando algo natural.", ?
+"q triste uma coisa dessa conssagrada a satanais eo pôvo adora", ?
+"gestos satânico nesse comercial. ...como sempre heresias por trás", ?
+"quero só pelo copo. porque isso não enche nem o buraco do dente kkkkkk andre calheiros giovanna queiróz", ?
+"27 reais em três mini sanduíches que só dão pra uma mordida, desculpa ai mas eu prefiro juntar mais 3 reais e comprar um trio do picanha artesanal.", ?
+"josi iwamoto compra e manda pra mim 🙏🙏🙏🙏🙏 aqui ainda não tem bob's😭😭😭😭😭😭😭, se não der pra mandar com o lanche só os copos está de bom tamanho 😀😀", ?
+"é uma dlc kk ja cansei de fazer", ?
+"monique lila e thalyta mendes eles estão usando nossa mensagem subliminar", ?
+"🤘🤘🤘🤘🤘", ?
+"cada um tem o livre arbítrio pra adorar deus ou diabo, isso é só uma declaração de amor pra satanás dos servos dele!!! dá pena desses energúmenos aafff", ?
+"sinal sifrado satânico mais uma vez usando mensagens subliminar pra implementar a new-world-order", ?
+"só o lanche que eh mini ... o preço é big ... ahhahahahah", ?
+"outro comercial satânico, não se engane esse símbolo da mão chifrada é um símbolo satânico.", ?
+"junior, kel... olha aí o esquenta pro rock in rio kkkk", ?
+"aii isabella oliveira vamos la pra comprar e ganha o copo de rock", ?
+"nathan viana olha esse vídeo kkkkk olha a mão da galera jkkkkkkkkkkkkkkkkkkkkkkkkkkkkk", ?
+"meus amigos rodrigo e laryssa temos que ir ao bob's conferir essa novidade, mas o copo fica comigo 😄.", ?
+"dan castro, coma comigo :( terá efeito reconfortante", ?
+"bob's brasil, os copos são vendidos separadamente????", ?
+"milena cobain melhor comercial  e propaganda hahahahaah com o supla  aí é onda hehe...pena que a comida não é saudável mas deu vontade de comer hehe", ?
+"rafaela jascoski aceito <3", ?
+"bom, já é a terceira vez que vou no bob's e não consigo comprar o rock trio querendo usar os tickets do bons fã dos 6 gastei 4, motivo ainda não chegou o trio outra falta de informação das próprias franquias na seleção de ponto de venda, aí dá uma atendente teve a audácia de debochar quando foi me informar que meu ticket era para outra bob's no mesmo local tem burger king comprei lá e sai bem satisfeito ainda mais que o refrigerantes e livre refil direto e a carne tem um gosto bem forte de carne e bem suculenta, ou seja por falarem duas vezes comigo deram brecha para a concorrente obrigado! pela incompetência de vocês bob's nunca mais.", ?
+"não adianta, lançar nada, você vai no bob's e nunca tem nada, cansei de ir ao bob,s e pedir um simples milk shake e não ter, faltar katchup a máquina de refrigerante estar com defeito coisas que geralmente não acontecem com a concorrência", ?
+"que bosta!!!o supla que representa o rock no brasil?! não é atoa que estamos definhando no cenário musical no brasil. sou mais o viking da guitarra no sul... mr. the ros, um roqueiro de verdade. que gosta de rock, que faz rock e que vive o rock!", ?
+"🤘vamos, miguel alves fhernandes costa.", ?
+"não aguento mais gente fazendo copo!!!!! hahahaha quero, adriane leal", ?
+"vitor o hugo tinha confundido a rede, é o bob's😂", ?
+"comercial sem noção. será que sabem a origem e quem foi o primeiro a fazer o gesto do as mão,?", ?
+"mais um comercial com o uso de um sinal diabólico usado para adorar a satanás e inializar pactos..algo que pra muitos é normal.. porém é isso que o sistema penssem", ?
+"jean, eu gosto de copos maneirinhos", ?
+"eu quero valeska araújo", ?
+"bob's fui comer esses dias  no shopping penha aqui em são paulo e sai decepcionado, lanche todo bagunçado, lanche frio e  o refrigerante a vontade aguado, joguei o meu fora...galera não  vão lá, sou cliente do mcdonalds, nunca mais vou no bob's...", ?
+"karine santos, aceito de presente...rs ❤😍🙈", ?
+"cara na moral, em pleno século 21, com 7 bilhões de pessoas no mundo, com mais de 6 universos, e as pessoas ainda insistem em ler meu comentário que não tem nada a vê. kkkk..quem leu da uma curtida ai😉 😂😂😂", ?
+"eike, patric, neil. pena que david vai ficar de fora", ?
+"é pra ser uma piada isso? supla, o billy idol do paraguai, metido a punk e agora se superando na bostice em uma propaganda da indústria da morte, uma boa atitude, não vale um peido, atitude zero.", ?
+"quero gustavo vargas", ?
+"rodrigo batalhaquero", ?
+"marília medeiros partiu?! hahahabrincadeira, sem fast foods.", ?
+"b's brasil... uma vez fui para um congresso a area de inovação tecnologia de alimentos e desgustei algumas casquinhas com sabor... tinha casquinha de sabor: castanha, coco, chocolate, integral, e baunilha... adoraria ver alguma dessas opções no bob's... todas eram deliciosas 💖", ?
+"boa noite,  gostaria de fazer uma observação, não sei se vcs apenas vendem as franquias, ou se fiscaliza as que vende para saber como estão atendendo os clientes, fui no bobs em viçosa mg, e é um ambiente muito agradável, ótimo atendimento, pedi um milk shake de nutella, e estava maravilhoso difícil até de beber de tão denso, e de tanta nutella, agora o bobs da minha cidade de itaperuna rj, bobs itaperuna eu pedi um milk shake de nutella, e minha vontade é de nunca mais voltar lá, o milk shake está branco ! nem gosto de nutella não tem, tem gosto de baunilha de tão econômico que a franquia daqui é, simplesmente horrível comparado com o bobs de outras cidades.", ?
+"sou bob's fã, so que no shopping que eu costumo ir eles não fazem nada bom... a pessoa responsável por preparar os lanches não frita a batata direito ... ela vem totalmente mal frita, logo o que irá gera um mal estar, pois comer uma coisa que ainda tá congelada? fala sério, outro detalhe a carne do hambúrguer é a mesma coisa... bob's vcs tem tudo pra dar certo, porém tem que melhorar com os lanches ....  resolvam por favor....", ?
+"sei que você vai querer seruma de nóswinx.quando damos nossas mãos nos tornamos poderosasporque juntas somos invencíveis!winx é tão bom poder sorrire o mundo iluminarvenha se juntar a nós voando.sei que você vai querer seruma de nós.com o nosso raio o céu incendeiadando início a uma aventura estelarnuma nuvem a mente vagueia,colore a minha vida com tudo que imagino!vou voar bem alto...winx.quando damos nossas mãos nos tornamos poderosas porque juntas somos invencíveis,.winx novidade igual não há,companheiras para valervenha se juntar a nósvoando.winx!fantásticas winx!elas podem voaro raio mais poderoso tem a marca das winx.", ?
+"aí thiago silva e roseane santos ,já podemos ir comer pra ganhar o copo 😂😂😂😂", ?
+"fui no shopping iguatemi no bobis ...peguei 2 milk ele boto muito pouco nutella botou com uma espátula não deu nem uma colher.... era um gerente pois não tinha 1 funcionário na loja....  ele falou que era ordem ...não deu nem uma colher de calda. mal senti o sabor......  horrível sempre vou lá geralmente botam 2 vezes a calda .... ou os funcionários estão mal treinados ou o gerente quer economizar!!!!? gostaria de saber paguei e quero saber gerente totalmente sem noção para fazer alguma coisa lá dentro....", ?
+"acho que cada um tem sua opnião,mas vocês que gostam de queimar o filme de quem trabalha em praça de alimentação e não fazem idéia como é difícil ter que trabalhar em pé quase 8hs por dia,de domingo a domingo,sem ter muito direito de ficar com seus famíliares,e ainda ter que sofrer na batalha que é chegar ate nossos compromissos,andar de ônibus pra sofrer assaltos,e mesmo assim ter aquela obrigação de todos os dias estar lá,de cabeça erguida,aturar clientes mau-humorados que muitas vezes não tem razão! não sou a favor de gente mal educada,mas eu entendo o que é trabalhar em praças de alimentações,e sei que todos são muito guerreiros,e cada vez mas merecem nosso respeito! são mães e pais que estão ali firmes e fortes pra poderem dar suporte aos seus familíares,e merecem todo meu respeito e carinho! porque eu sei o que é trabalhar em praça de alimentação de shopping!", ?
+"fui na unidade de vocês que ficar em fortaleza no norte shopping jóquei, então fui atrás de trocar os meus voucher do mastercard como sempre faço, compro outros produtos é pego a batata em dobro, mais hoje fui barrado pela gerente é caixa da loja de forma muito mal educada de ambas, então gostaria que vocês verifiquem esse ocorrido, para que eu possa voltar a utilizar a unidade.", ?
+"eu amo o milk shake de vocês! hoje resolvi experimentar o lanche, decepcionante!! isso era para ser um double cheddar, que de cheddar não tem nada, tudo foi jogado de qualquer forma, o hambúrguer cheio de óleo, sempre fui bem atendida nos estandes dos sorvetes, mas a atendente me cobrou errado, foi um desastre!!!!", ?
+"fui no quiosque do bob's do shopping d terreo, em são paulo, o atendimento é pessimo e a atendente ao realizar o shake o bocal da máquina caio dentro do shake e a mesma sem constrangimento pegou uma faca retiou e voltou a realizar , quando eu questionei que não queria o mesmo ela não gostou e quando eu pedi o meu dineiro de volta o mesmo se negou dizendo que já tinha realizado o pedido. então pessoal fiquem de olho.", ?
+"hoje fui no bobs em nova iguaçu na unidade da av doutor mário guimarães, pedi um lanche no cupom bobs fã de 2 trios bigbob picanha e quando cheguei em casa me deparei com esse lanche, esse pao diferente do da foto do cupom! acabou com a minha noite, pois o lanche não condiz com o da foto do cupom, sem contar que o queijo que eles usam não é o cheddar. nunca mais eu como no bobs...", ?
+"funcionários  do bob's são péssimos , fui comprar um lanche no do shopping dom pedro, e estava na minha vez e o retardado do caixa atendeu uma moça que corto minha fila na cara dura, depois disso fui no bk  bem melhor", ?
+"eu gosto muito do bob's mais fui em uma franquia de vcs em feira de santana e fui mal atendida,meu marido queria saber os tipos de sanduíches não deram a mínima disseram que estava no cartaz e que só tinha 3 opções pelo que vimos pessoal com mau humor. tirando esse episódio eu adoro o bob's", ?
+"o ocultismo mensagem subliminar da propaganda pra que ?", ?
+"quero fazer uma reclamação. quarta feira dia 09/08/2017 eu fui ao bobs na loja viuva dantas (campo grande, rio de janeiro - rj) e dei dois cupons da promoção rock no capricho picanha artesanal. mostrei os dois cupons para a atendente ela validou os dois. porém na hora que fui pagar ela pediu para eu pagar em outro caixa pois o dela tinha caído o sistema. fui no outro caixa pagar e perguntei se eu nao iria perder o sorteio já que estava pagando em outro caixa e não me pediram os cupons novamente. a atendente me disse que não teria problema. quando pedi minha nota ela me informou que não tinha como me dar a nota já que foi efetuado no outro caixa. perguntei de novo e disse que eu precisava muito participar da promoção do sorteio e ela me disse que não havia problema e que o cupom ja havia sido confirmado e que eu participaria da promoção. porém até hoje dia 12/08/2017 não recebi meus cupons de sorteio da promoção! e agora o que eu faço? quer dizer que além de ter gasto dinheiro apenas para participar da promoção, eu fui enganado e ainda não me deram a nota fiscal?!", ?
+"eu sei q ninguém vai ler mais funciona mesmo leia em silêncio 1- beije sua mão 2- feche a mão 3- diga um nome de um dia da semena 4- nome da pessoa q vc gosta 5 - abra a mão 6 - cole isso em 15 comentário e bem no dia q vc. e ira pedir vc em namoro se rejeitar esse convite, tudo irá dar errado.", ?
+"infelizmente o meu milks de nutella agr vem apenas com um terco da nutela ao redor do copo que vinha antes, sendo os funcionários o gerente d franquia pediu para eles economizarem! joinville sc", ?
+"na última edição devido a um lanche que fiz no bob's, no dia do show da rihanna, passei muito mal no dia seguinte e perdi o show mais esperado por mim (katy)!!! valeu, bob's 👍🏻", ?
+"bob's da minha cidade é muito mal feito.. dei uma chance um dia comprei um sanduíche, mas era pequeno estava totalmente mal feito. nada fresco, batatas puro óleo. joguei dinheiro fora..😐", ?
+"bob's brasil, massa demais esse esquema aí hein? massa pra gente publicar no rock fã clube, huh? bora? vamo fazer um esqueminha massa ae!", ?
+"utilizei ontem 3 cupons q foram gerado, mas não recebi por email nada sobre o uso....agora entrei no meu cadastro, e é como se ainda estivesse ativo pra utilizar...", ?
+"com certeza irei aí provar! melhores comerciais de fast food são do bob's, os lanches sao bons ate, mas o milk shake de ovomaltine é o melhor do mercado.e faço questão de comer fazendo a mão chifrada igual no comercial", ?
+"paulo yoshimatsu mano fizeram quase um milagre nesses hambúrgueres ! conseguiram diminuir mais ainda !kkkk_kkk", ?
+"já garanti o meu :) :d. no mesmo dia fui olhar as promoções do bob's fã,e ,vi uma oferta grátis por causa do meu aniversário. ainda paguei r$9,70, mas né, ainda bem que eu tava com dinheiro na hora... imagina que constrangimento seria?", ?
+"não importa se a franquia é nova ou velha. já estou esperando a mais de 40 minutos e nada. muito decepcionante esperar tanto tempo por algo que costuma ser rápido e eficiente", ?
+"cara na moral, em pleno século 21, com 7bilhões de pessoas no mundo, com mais de 6universos, e as pessoas ainda insistem em lermeu comentário que não tem nada a vê.kkkk..quem leu da uma curtida ai kkkk", ?
+"eu sei q ninguém vai ler mais funciona mesmo leia em silêncio 1- beije sua mão 2- feche a mão 3- diga um nome de um dia da semena 4- nome da pessoa q vc gosta 5 - abra a mão 6 - cole isso em 15 comentário e bem no dia q vc. e ira pedir vc em namoro se rejeitar esse convite, tudo irá dar errado", ?
+"jaaaaa queroo bob's 💗💗💗 imagine. delícia desses 3 sanduíche maravilhosos, tenho que comer essa gostosura 😍😍 me dá um cupom, nunca pedi nada 😢😢", ?
+"ester alicelembrei de vcs no começo do vídeo n sei pq kjkkk", ?
+"uma das melhores propagandas de lanche que já vi.. parabéns a equipe de marketing, show de bola. esperando os mini chegarem na minha cidade. abraços.", ?
+"se vcs prestarem a atenção eles estão usando um símbolo satanista. e sobre o símbolo o bobs não da nenhum esclarecimento. são os únicos comentários que eles não respondem alias pessoal vamos ficar atentos sobre o que deixamos entrar em nossos lar.", ?
+"estive na loja do bobs na av. nilo peçanha, centro - nova iguaçu - rj para comprar um lanche. escolhi a forma de pagamento através do meu sodexo refeição, inseri a senha e foi aprovado. retirei o cartão e a caixa travou. a atendente chamou o gerente que prontamente fez os procedimentos necessários e consertou o caixa, e informou que não seria cobrado 2x, pq a ficha anterior tinha sido cancelada. ok, passei novamente o sodexo e para minha surpresa 2 cobranças constam em meu extrato no valor de 18,00 no dia 14/08/2017 por volta das 17h. eu não tenho como voltar na loja para ficar cobrando meus direitos e pedir para me devolverem o que me cobraram errado. só quero que seja estornado o que foi indevido! pq caso contrário, infelizmente vou precisar acionar o juizado especial por uma cobrança duplicada de 18,00, o qual é indevida!", ?
+"olha os caras falando do símbolo aqui nos comentários hauahsushs marcos paulo", ?
+"nao sei nem porque estou aqui ....tudo começou quando eu era mais novo.comecei a ler um comentário da foto da minha irmã. daí depois passou pra um e outro e hj, estou viciado nessa coisa de ler comentários. percebi que estava viciado de verdade quando me afundei mais ainda  e ví que além dos comentários eu estava lendo tbm as respostas dos comentários. mas, tenho fé que um dia eu me recupero.e você que está lendo e me julga pelo meu vício. fique sabendo que voce tbm é viciado pois, está lendo o meu.", ?
+"olha aquele copo... é... um pouco maneiro😅.  kjjkjkhdeyvidé minúsculo 🍔 quero 👌😂", ?
+"to achando que isso não vai me encher tarcisio kkkkkk", ?
+"kkkk olha fellipe da silva, os cara fzd propaganda com o sinal da besta. misericórdia!", ?
+"eu quero copo abel rocha kk", ?
+"o verdadeiro bob's...esse é o real tamanho desses burguer's por aqui...uma vergonha pagar r$ 25 nesses burguer's que eu dou duas mordidas e acaba!", ?
+"álvaro lucas já quero :::333 só por causa dos copos, não vou mentir kkkkkk", ?
+"boa noite, vocês vendem a essência do molho especial em mini tubos de perfume? gostaria de presentear meu amigo luis lopes, pois ele ama sair por ai cheirando a hamburgueres da moda =)", ?
+"meninas atenção! quando um homem pede pra vocês ir na casa deles é porque eles querem te comer, cuidado viu. se vocês quiserem mais dicas só vim aqui em casa", ?
+"bob's brasil, precisam se organizarem em evento de grande porte igual o rock in rio. estavam péssimos nos lanches que não eram bob's, atendimento péssimo, quase 1 hora e meia pra comprar e retirar o  pedido, funcionários totalmente desinteressados.#mais respeitoaosclie tes#seorganizem#nuncamaisbobs#pessimo#rockinrio2017", ?
+"infelizmente,  para os leigos está simbologia da mão  é apenas algo do rock, mas para os intendidos é  a mão chifrada uma bela propaganda de satanás .pesquisem!!!", ?
+"fiz um pedido pra viagem e chegue em casa e descobri que meu milk-shake veio de um sabor diferente do que pedi. atendimento péssimo.", ?
+"uma oração para o amor muito forte e poderosa! pelos poderes de são cipriano e das três almas pretas que vigiam são cipriano jms vai vir agora atrás de mim kan, quero que você jms venha de rasto, andando, correndo, apaixonado, cheio de amor e tesão para ficar comigo o mas rápido possível. são cipriano eu terei esse poder que jms deixe de uma vez todas as outras mulheres para assumir que me ama kan. são cipriano faça com que jms me procure ainda hoje e agora desejando estar comigo kan e ao meu lado que jms me admire e me ame muito, quero que jms tenha a certeza que eu sou a pessoa perfeita para ele, o amor da sua vida e que jms não possa mais viver sem mim kan e tenha a certeza que sou sua, e tenha sempre a minha imagem em seu pensamento em todos os momentos de sua vida, agora com quem estiver, onde estiver jms será arrancado daí, porque o pensamento dele está em mim kan e ao me ver que sinta muito tesão como nunca sentiu por ninguém e ao se deitar que tenha sonhos eróticos comigo e ao acordar que sinta muitas saudades minhas e ao andar pensará em mim a todo momento do seu dia terá o pensamento em mim e vai querer me sentir, sentir meus carinhos, me ver, sentir meu cheiro, minhas mãos, me tocar com amor que jms queira me abraçar, beijar, cuidar de mim kan e sentirá prazer até em ouvir minha voz kan, que tenha muito ciúmes de mim kan. são cipriano faça jms sentir por mim kan um desejo fora do normal como nunca sentiu por outra pessoa e nunca sentirá por ninguém, que jms sinta ódio e nojo das outras mulheres que tenha e a rejeite outras pessoas que tiverem interesse sexual por ele, para dedicar seu amor a mim jms e que seu amor seja só meu kan, pois somente comigo sentirá prazer, alegria e felicidade eu serei tudo na vida dele que tenha prazer apenas comigo kan que tenha tesão somente por mim kan e que seu corpo seja só meu, que só tenha paz se estiver ao meu lado. agradeço são cipriano por estar trabalhando em meu favor e vou divulgar seu nome publicando essa oração sete vezes seguidas em troca de amansar jms e trazê-lo apaixonado, carinhoso, devotado, dedicado, trabalhador, fiel e cheio de desejo, tesão, aos meus braços para que assuma o nosso amor e seja meu homem o mas rápido possível. peço isso aos poderes das três almas pretas que vigiam são cipriano. assim será, assim será, assim está feito e jamais será desfeito. amém.", ?
+"eu quero ir só pelo copo kayque", ?
+"rodrigo da silva acho digno  de você  pagar um lanche no bob's", ?
+"thamires farinelli chupa europa, não tem bobs ai, sua lixo. vai brasil caraio team br", ?
+"francislaine caroline, vamo pegar esse da próxima? quem fica com o copo?", ?
+"mini burger? te lembra alguma coisa carla f santos kkk 😂", ?
+"andressa larissa dá pra tapar o buraco do dente pelo menos? será?", ?
+"pedro vinicius vamo pelos copos porfavorzinho", ?
+"noooooossaaa vaaaaamo? renato torres", ?
+"ou bora ir kkkk quero ganha um copo rafael brunetta", ?
+"ala amor, o rock in trio q eu falei kjjjkk guilherme valverde", ?
+"everton facincani vou em rondon só pra comer isso 😂😂", ?
+"ameeeeei ter participado desse comercial 😍 manodi", ?
+"mary freitas antes de tudo eu vou ver os preços dessas belezura ahushddus", ?
+"😏🤘🍔", ?
+"só faltou seu milk shake pra completar o pacote hein priscila basílio kkkkkkkkkkkkkkkkkkkk", ?
+"diego ferro vem pra ca seu puto, pra nos ir la engordar kkkk", ?
+"amor precisamos muito ir sábado pra mim começar a coleciona os favoritinhos copos do rock rio john teixeira😍😏😍😍😍", ?
+"larissa pagano, toda vez que vejo essa propaganda lembro de vc com a mãozinha hahahahahahahhaah", ?
+"matheus fernandes bora 3 hamburguinho mais a coca e o refri nois vai encalhar na cadeira", ?
+"laura lemos lembra da nossa ideia do hamburguer compacto? kkkkkkkkkk fomos copiadas!", ?
+"alessandra olha isso....quando o nicolas estiver junto e quiser pega esse e os outros dois pro pipe", ?
+"flávia maia acho que quero ir no bobs rsrsrs", ?
+"menos uma cliente!!!!!!!! bobs do terminal rodoviário do rio de janeiro péssimo atendimento, funcionários extremamente mal-educados!!!!!!!!!! 😭", ?
+"já quero amoor anne gabrielly acho que nós vai é lá comemorar nosso niver de namoro ganhar esses copos🤣", ?
+"pega um copo desse flávia gama", ?
+"kkkkkkkk paula braz kkkkkkkkkkk", ?
+"olhe os comentários pedro matheus", ?
+"carl poppa comercial perfeito neh", ?
+"evely caroline olha os comentários kkkkkkkjjjjjj crente é burro demais", ?
+"romulo gomes olha os comentários sempre tem um crente 😂", ?
+"bianca ionara melhor propaganda kk, to aceitando, to com fome kkk", ?
+"jadeane deodatto quero te  convidar hj pra pagar essa bela nocividade pra mim 💟", ?
+"luiz nascimento caralhoooooo mano mandou bem parabéns pelo seu trabalho", ?
+"meu amigo está no comercial...parabéns luiz nascimento..👏👏👏👏", ?
+"alexandre chinaider e a gente achando que no bobs, os hambúrgueres já eram minis", ?
+"victoria oliveira agora sabemos como conseguir sksksksksk", ?
+"pollyane cristina soares pqqqqqq não esperamos mais um diazim? 😭 eu quero esse copo kkk", ?
+"daí amor a propaganda que a filha viu... mariana azevedo kkkk", ?
+"não tem que ser mini, tem que ser gigante yruam käffer de faria kkkkjkkk", ?
+"luis vinicius pinheiro kkk só lembrei de ti tocando a guitarra kkkk", ?
+"super pequenos até a posição do supla filmado é diferente pra da impressão q o mini burguer q ele tá comendo é maior", ?
+"wesley macena aqui mostra mais ou menos o tamanho. eu qurroiooooooii  😍❤", ?
+"luiz soares , breno roque , maria ana", ?
+"lucas bastos não quero passar vontade só", ?
+"camila poly kkkkkkkkkkkkkkkkkkkkkkkkkkk", ?
+"vou arrumar um copo desse para vc pâmela bezerra", ?
+"polyanna olha esse copo 😍", ?
+"paulo carvalho qual o nome dessa música?", ?
+"bianca duarte, todos os copos? vamo?", ?
+"fazer um comercial falando de rock e colocar o supla nele é sacanagem.", ?
+"fagner bruno kkk so lembrei de tu", ?
+"eu quero esse copo camila lopes", ?
+"no ultimo rock in rio, era hamburguer do posto ipiranga de microondas, não se deram nem o trabalho de servir em outra embalagem, vinha a embalagem quadrada de plástico dos hambúrgueres de microondas.", ?
+"heverton mendonça olha isso!", ?
+"se pá esse lanche tem mais rock que o próprio rock in rio.. salve bob's", ?
+"so acho engraçado o supla ser referencia de rock kkk playboy desses", ?
+"rock in rio, expectativa: ac/dc , metallica e etc..realidade : anitta, roberto carlos e expecial de ano novo exclusivo e etckkkkkkkkkkkkk", ?
+"a campanha é maravilhosa, mas no dia que o supla tiver raiz do underground e parar de ser poser ou o icone de imagem do rock nacional, ai nesse dia, seria legal! vamos falar de secos e  molhados..", ?
+"grande bosta o supla aprovar.por acaso ele vai pagar o meu?se foder.", ?
+"bobs, que porcaria de sanduíche era aquele do rock in rio???? 25 reais por um hot pocket? sanduíche congelado??? desorganização total. não tinha nem filas. perderam um cliente!!!!", ?
+"rock in rio acontecerá dia 24 de setembro . passara na globo e na multishow !", ?
+"eu ainda não acredito que além de comer o melhor hambúrguer eu ainda vou pro rock in rio 😍 agora eu amo mais ainda o bob's ❤️❤️", ?
+"muito rockeiro fala do supla, mas eu acho ele maneiro kkkk ficou show o comercial.", ?
+"afffff né supla????? tanto cara do bom e velho rock e colocam supla???? então tá, né??vou ter esperanças p o ano q vem ver algo realmente do rock.", ?
+"estava tudo legal no comercial. não sei de onde ou porque botaram o supla aí. esse é o representante brasileiro do peso ? que bosta. 😧", ?
+"o que estraga a propaganda é o supla, mais é bom saber que o bob's lembrou dos roqueiros", ?
+"rock in rio se vendeu para a industria musical, lixo! agora é ''pop in rio''", ?
+"que caida eim bobs, lembro em uma edição do rock in rio que eu comprei burguer e ganhei uma garrafa no formato de uma guitarra e com 700ml de coca cola", ?
+"rapaziada fanática tá caindo em cima kkkkkk só é vacilo dar o crédito pra satan e não pra equipe de publicidade do bob's", ?
+"a última vez consegui um par de ingressos pro rock in rio foi em 2013, isso pq me cadastrei no site do bob's e comprei 4 promoções da época, podia rolar um par de ingressos esse ano tbm de preferência no dia do rock mesmo.#quemnãochoranãomama.😂", ?
+"aí no próprio rock in rio vocês levam uns lanches congelados de supermercado, vai entender...", ?
+"bobs pelo amor de deus voltem a vender o milk shake crocante de banana (de uns cinco anos atrás) por favooor ♥️ melhor milk shake q já tomei na vida", ?
+"john souza ... amor mds vamos lá no bob's eu quero um copo do rock in rio 😍😍😍😍❤❤❤❤", ?
+"daiane obelar olha que copos irados...e com 3 sandubinhas ♡ hahaha", ?
+"e quanto ao atendimento em bobs itajaishoping  miguem resolveu nada por isso não vou mais nesse fast food  não dão bora pra reclamação do  cliente .", ?
+"lenin come o lanche eu só queria o copo mesmo", ?
+"felipe francirlei marcos mateus....vcs já tinham visto !? kk a parte mais engraçada é a do supla !! 😂😂", ?
+"eu já ganhei o meu copo🤘🤘🤘💃💃😍😍😍, ne mariah brandão", ?
+"bia borges", ?
+"amor, já sabe, já quero ! inara", ?
+"robson e aí vamo fecha?", ?
+"andre vamos marcar nosso passeio <3", ?
+"ciro facundo só quero o copo, talvez as batatas rsrs", ?
+"bob's copiou nosso wow viadovisks, pedro suzuki leo lyrio eduardo alves joão vitor silva puyol guilherme recla", ?
+"miigo felipe cardoso vamos ? ninguém gosta de ir no bob's comigo 😞", ?
+"yago serpa feito especialmente pra mim huehuehue", ?
+"tamiris redivo não que eu goste de food, mas esses copos 😍", ?
+"jaqueline martinez preciso ir no bobs 😱😱😱😱 kkkkkkk", ?
+"vms amor eu quero um copo desse hehehe karen oliveira", ?
+"já quero um vagner vinicius 😋adorei esse novo lançamento💛", ?
+"vivi eu queroooo...", ?
+"mas ja nao eram minis?", ?
+"vou andar assim agora thayná", ?
+"anderson fogaça vai falta espaço no armário de copo", ?
+"leticia campos vai la comer e me dá o copo pelamor", ?
+"gustavo lima olha essa publicidade hahahahah", ?
+"rebeca figueiredo ahsuaueusuauseua saca os comentarios", ?
+"thalis wilson sabrina seixas jennifer lopes aline santos", ?
+"viih tavares presta atenção nesse comercial", ?
+"ygor alexandre lê os comentários akahjahjhzjhz", ?
+"bruna fernanda munhoz olha amiga o sinal da amizade !!😐😐😂", ?
+"rafael brandao quer ir no bob's daqui de cg?", ?
+"olha rosely lima rslegal né....?", ?
+"fernanda souza, essa budega não abre aqui", ?
+"giulian eu quero, eu quero, eu quero", ?
+"sou colaborador de red bobs e recomendo, ele aparente mente é pequeno mais quando você come os 3 mais a batata e o refri é certeza da satisfação.", ?
+"phê evaristo eu quero esse copo", ?
+"ai danilo viana hahaha garantir um copo", ?
+"thor cesar quero o copo t.t", ?
+"pedro igor e 27 reais❤🍔🍔🍔", ?
+"é o bob's kkkk por causa do rock in rio carlos alexandre silveira kkk tô rindo", ?
+"nossa, que lindo, pena que o desemprego fala mais alto kkkk me dá um desses bob's :(", ?
+"chryselen lucino eu querooooo.", ?
+"joão pedro jr. , eu queroooo📢📢📢📢 😍😋😋😋😋😋😋", ?
+"keyla re no outro domingo, ein...", ?
+"por sergio barbosa ted da pra nada..kakakak bob's", ?
+"jeferson santana nosso proximo encontro vai ser no bob's olha que maximo de combo", ?
+"rock não define personalidade e não define a vida da pessoa isso é um estilo musical !!", ?
+"melhor propaganda q vi hj, amanda fróis, weldon santos, pablo lins", ?
+"mariana no rj tem um bob's em cada esquina aproveita kk", ?
+"faz as promoções legais, mas chega no rir e fica vendendo hot pocket e caro pra caramba ainda por cima, não adianta nada!", ?
+"crentes burros vão todos para o inferno,a burrice é um pecado maior que um simbolo feito com a mão ahahahah vão pesquisar ow seus burro.....ow bob s dahora a iniciativa aeww maas façam ums hambúrguer maior aew ahaha valeu abrss....", ?
+"bruna alvim brasilino bittencourt ricardo rocha alexandre martins... mcdonald's com o bbq, e agora o bob's com o minitrio", ?
+"hum invocando demônios ne uhum sei.na era moderna iluminista pede igualdade na era das chacinas pedem restos mortais para autoridade.", ?
+"wid silva bora??? precisamos dos copos e dos sandubas....", ?
+"qual a doença de vocês? o dio usava esse símbolo quando ele era do black sabbath.", ?
+"cara tava vendo esse vídeo e lembrei de vc e da sua turma kkkkkkkkk fábio silva", ?
+"douglas abdiel já nem preciso dizer o motivo pelo qual eu quero ir no bob's ❤️", ?
+"fael rodrigues vamos no bobs, quero experimentar os hambúrgueres e quero o copo pra minha coleção ❤️😂", ?
+"sacanagem ser mini, devia ser giga pelo valor.isso não forra o estômago.", ?
+"esse foi o comercial mas diabólico explícito que já vi essa forma que eles fazem com o não significa invocando diabo.. ou seja se alguém fazem isso não espere coisas boas na sua vida..jesus disse, se procederes bem tudo te irá bem..", ?
+"vanessa gabriel eu quero muito um copo desse", ?
+"prevejo lunaticos religiosos q curtiram o burgão dizendo q é do capeta e q n vão  mais comer isso kkkkkk", ?
+"isso parece um comarcial de filhe de zumbi.the bob's dead versão brasileira weber tirucher", ?
+"o cara comprar três sanduichinhos e ganhar um copo véi? kkkk pense numa promoção sem futuro. kkkk e os caras ainda fazem um vídeo cheio de paranauês. kkkk", ?
+"bob's, suas propaganda rock n roll não são nada rock n roll, me dá atenção e um tempinho que eu junto meus amigos e fazemos a propaganda mais rock que tu vai ver, seus comercializadores", ?
+"exijo um bob's na minha cidade 😣 adam ribeiro necessitamos", ?
+"quando eu disse que tinha chegado novidade no bobs marcos vinício", ?
+"estou abrindo uma clinica de reabilitação para quem veio aqui apenas ler os comentários caso tenha lido esse as inscrições estão abertas ✌😂", ?
+"triste saber que o vocalista do linkin park morreu bem no dia do lançamento dessa deliçia", ?
+"passando para avisar que se morder meu dedo vou ficar bolada. 😂😂😂 hummmm... já quero!!! 😂😂😂", ?
+"isso 8 pode ser um oito ou um infinito de pé... símbolos iguais n quer dizer significados iguais", ?
+"queima senhor não podemos apoiar esse símbolo satânico, brazil é do cenhor jesus. amém", ?
+"gente curtem meu vídeo lá na página do tucuruí folia. me ajudem a conhecer o léo santana no camarim 😍👏", ?
+"bob's  lixo  , fui comprar milk shake os cara misturam  água da torneira na cabertura", ?
+"toda vez que passa esse comercial minha namorada diz esse cara é bonitinho e blá blá blá. affffffffffffffffdfffffffffffffffff 😂😂😂😂", ?
+"aiiii sim gostei 👏👏🤘🤘❤❤ sab eu acho q eu vo ai fazer uma visita,   eu queria saber se aquele copo ta na promoção ainda? boa tarde!!!", ?
+"comercial diabolico,so inicio ao fim muito triste mas pra derrota de satanas jesus esta voltando", ?
+"mesmo lanche nova propaganda, acho que a propaganda deixa mais gostoso, cade o catu rock ? tinha q ter catupiri,queijo e amburguer vindo da índia, aí ia ser radical.", ?
+"eh mta gente retardada aki. falando q a página está adorando a satanás por causa de um gesto.vão se tratar...", ?
+"nao dessse bobs q o seguranca matou uma crianca na borada a dois meses atras to fora de qem promove violencia e agressao comtra criancas hhhuuuuuuuuuuuuuuuuuuuuuuu", ?
+"esse sinal air na mão .ninguém sabe o siquinificado bando de otário ..   .. faz isso e nem sabe  o q siquinifa", ?
+"mais masonico logo,  so tem esse sinbolo pra fazer nas maos ta nessa", ?
+"cara, sempre vou no bob's. porque? é gostoso e não tem fila. 👏😋", ?
+"arnon vai no bob's pra pegar esse copinho massa kkkkk", ?
+"símbolo da besta... misericórdia não sou evangélico mas acredito na palavra", ?
+"preciso de pessoas que tenha celular 📱 e internet para trabalhar divulgando nosso aplicativo picpay, ganhe 50$ a 200$ reais por dia! interessados chamar no bate papo ou whats 081_984676649.", ?
+"esse só foi mais um comercial satânico eles usa rock para não dar tanto na cara,  é  gente abre o olho....", ?
+"filho, ricardo luiz borges, não consigo comer um hambúrguer, muito menos 3! isso é para vocês! saudades, beijos!", ?
+"pena que no brasil n é assim ja tentei fazer isso mais todos mi olhan como se fosse um idiota", ?
+"poxa bob's!fui tentar usar dois cupons agora à pouco no amazonas shopping e não consegui!tava dando expirado!depois a atendente informou que o site tah com problemas!resolva gente!olha a vergonha que passei!?!", ?
+"carlos rodrigo gois 27,00 ( variável)  não quero mais pode comprar meia dúzia de copos msm kkkkkkk mintira msm assim eu quero kkkkkkk", ?
+"se eu fazer esse gesto minha mae já vem filho não faça isso e coisa do demônio kkkk", ?
+"gente,especialmente os crentes em questão,estão dizendo o símbolo satânico,marca do diabo e etc.relembrando,alguém ja viu o diabo?? alguém morreu e voltou,foi para o inferno e viu ??? ele tinha chifres?o diabo é um anjo que quis roubar o lugar de deus e foi punido por tal traição.então e o msm que dizer que anjos tem chifres também. busquem a deus,não olhe ao seu redor se for pra apontar o dedo e julgar,pois no final poderá serem julgados por isso.o demónio se manifesta na vida,mente e coração daqueles que não buscam a deus,e não em símbolos.deixem de seguir palavras do homem que os deixem alienados e entenda a real palavra do senhor!", ?
+"bibi kkkkkkkkkkjjkjkkkkkkkllkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjkkkkkkkk", ?
+"que vacilo, esqueceram de me colocar nesse comercial. ahahhah", ?
+"ahhh esse cara já deu o que tinha que dar já era dahora no pânico só mais agora slk kkkkkkkkk", ?
+"ai que massa, rock+bob's= felicidade de babi 💟amei a novidade", ?
+"hugo yorran olha o tamanho dos sanduíches amor, te falei q são minis kkkkkk", ?
+"http://meuamigoeomaximo.maxtotalalimentos.com.br/participante/marcio-roberto-baggio/  votem no meu cãozinho,é so clicar no link votar e confirmar com sim.", ?
+"e o satanas reina na propaganda,  credo ta marrado,  xo daqui capeta kkk", ?
+"o lanche já é pequeno com esse então vai caber em um dedo 😂", ?
+"não posso fazer você vegano mas posso fazer você pensar no sofrimento deles. o que você faz com essa informação é relativo ao seu caráter ou a falta dele...", ?
+"na tv geralmente eles aumentam pra parecer monstro os lanche esse não da pra ver, o original deve ser quase do tamanho de uma moeda de 1 real", ?
+"é fazendo o símbolo do cornuto, cornut... indica que é um seguidor satanista!", ?
+"depois de comer um cheeseburger com o hamburguer congelado no centro e cair na de tomar suco 'em pó' ao invés do suposto dell valle identificado na máquina, acho difícil eu retornar ao bob's :/ desculpa aí, pessoal...", ?
+"gente preste atenção nesse comercial?? pra que esse símbolo com a mão misericórdia senhor em nome de deus toda maldição está sendo quebrada em nome de deus", ?
+"esse ano nao tera mas linkin park sabemos que ele morreu ontem 20/07/2017 por favor faza homenagem a ele pois ele e o maio do rock e sempre estara em nosso coraçao que deus abeçoe ele", ?
+"tai mais uma grande marca de fastfood conhecida mundialmente fazendo homenage a satanás", ?
+"propaganda enganosa é  crime hein? no bobs fãs,  existe uma opção de lanche que acompanham as tartarugas ninjas,  mais ao chegar na loja, só falam que não tem mais... e o cliente fica como? no prejuízo. . estou com o comprovante de pagamento assinado pelo gerente da loja afirmando que fiz as compras compras e não recebi os brindes, só esperando o momento  certo de ir no procon..", ?
+"ta repreendido! o diabo sempre arrumando jeito pra os trouxas exaltarem ele sem saber... com esses sinais e simbolos. sangue de cristo!", ?
+"esperando sorteio do bobsfã. pq se barato é esse valor, nem quero saber o mais caro hahaha", ?
+"alinee anderson vieira olha o bob's sendo satanista fazendo a mão chifrada tsc tsc não como mais lá, perderam uma ótima cliente kkkk", ?
+"melhor propaganda *-* mano, porque minha cidade não tem bob's brasil? :(", ?
+"vai é todo mundo pro inferno domar dedada do capeta por causa dessas mão chifruda 👌👌👎", ?
+"os hambúrgueres do mc,donald's ja são mini imagine se fazer essa promoção do bob's k", ?
+"domy malagueta nosso lanche no rock in rio", ?
+"pq aqui em manaus agora só tem 4 lojas disponíveis pra usar o desconto bobs fã?", ?
+"bob's brasil, me envia nem que seja um copo, eu nao tenho dinheiro pra comprar e não tem bob's aqui na minha cidade :(", ?
+"a bob's é a melhor rede de lanchonete do brasil jente vênhao pega seu copo bob's galera", ?
+"quando eu trabalhava tinha todas esses brindes agora tenho que comprar mais caro kkk", ?
+"comercial  mais bobo, mão chifrada,  bobagem, só pra apresentar um produto etc. .....", ?
+"clarice santos to te marcando pq nao posso entrar no whats agr, pq to ignorando o crush que quer ficar cmg mais to com dó de dar o fora nele.. obg depois de respondo ta ❤", ?
+"ameiii, muito gostoso, atendimento excelente.#bobspetrolinape", ?
+"um dos piores símbolos satanicos e parece q ninguém vê...acorda mundo..", ?
+"o amburguer ja era mine... agora é o que micromine kkkkhahah", ?
+"estou decepcionada com o atendimento do funcionário que trabalha na alvorada. com esse atendimento vocês perdem o cliente. eu não compro mais.", ?
+"😂😂😂😂😂 eu não tô acreditando que em pleno século 21 tem gente que ainda afirma que 🤘🤘🤘 é o sinal de satã 😂😂😂😂 só por deus. estudem galera por favor..", ?
+"vocês não tá entendendo olha o sinal da mão o qual eles estão fazendo no vídeo com conectando com outro um sinal simbólico diabólico que vocês não está entendendo imagine sinal demoníaco isso é coisa de satanás vocês tem que prestar atenção nas coisas de jesus está voltando olha os sinais na mão deles todos eles faz isso é sinal que um é tipo um pacto jesus está voltando", ?
+"engreçado e o simbolo satanico que eles fazem na mão... antes de come esse bobs consagre ele a deus... pq ele come o bobs da mesma forma que ele fas o simbolo? pq n ele come normal ?", ?
+"o pão desse mini é uma bosta aqui em joão pessoa ... não é o mesmo gosto do grande ... horrível", ?
+"estou exatamente a 10 minutos na fila do bobs no shopping rio sul em botafogo no rio de janeiro.fui comprar um milk shake de doce de leite e pasmem não tem doce de leite!!ai pedi um de nuts com cookies e pasmem não tem cookies!!!!!!!!!!o que estão esperando para resolver esse estabelecimento! o lugar está imundo imundo!!!o gerente não faz absolutamente nada!!só fica igual a um fantoche no balcão! que absurdo!!!vou protocolar uma reclamação na vigilância sanitária e no procon!!!absurdo!!!", ?
+"por traz deste gostoso bob's tem um símbolo satanista, cuidados todos simbolos devem ser pesquisados, por trás d muitas coisas satanás está sendo adorado.", ?
+"ganhe divulgando e lendo noticias.não precisa investir.entre nesse link e se cadastre: noticias-br.com/p350749não e picpay.bons ganhos.", ?
+"eu  não  falo  merda  porque  a   minha  mãe   me  deu  educação   diferente  da  mãe   dela  de   ñ   deu  educação", ?
+"top mesmo👌uma delícia!!!só ñ gostei muito do preço...mas que é gostosó é huuummm!!!", ?
+"sangue de jesus tem poder, simbolo satânico, antes de comer algo assim ofereça a deus, pois o mau esta por traz de muitas marcas e propagandas e nem se damos conta.", ?
+"parabéns ao cara que descolou esse marketing dessa maneira,muito top mesmo.", ?
+"oo hambúrguer do bob's sempre foi mini , lançaram um menor ainda?", ?
+"parabéns bob's brasil já completei mais uma coleçao de copos", ?
+"vou ai bob's brasil experimentar todos esses mini burgers!!!! 😍❤️🤘🍔", ?
+"de 10 comentários 9 são evangélicos, resumido estão no comercial certo( curtindo)", ?
+"rock n rio é um lixo assim como esta propaganda e este lanche!o brasil inteiro é uma bosta!", ?
+"olha os sinais que fazem com suas mãos! símbolo usado em cultos satânicos e essa é uma apologia ao satanismo e ainda tem pessoas que curte! o meu povo foi destruído pq lhe falta conhecimento.", ?
+"profetizo a libertação na vida desse povo cego espiritualmente, jesus está voltando", ?
+"propaganda símbolo oculto com os dedos das 13 famílias do mundo...super elites que estão em busca de uma nova ordem mundial.", ?
+"minha ira está sem limites, ao ponto de eu estar sedento pelo dia da morte dessa praga... é menos um bandido pra infernizar o país!!!", ?
+"kkkkk caraca no segundo 0:26 cara do léo .. aquele que jogava com nois na joana", ?
+"coisa macabra esses caras fazendo símbolos na mão fazendo dois chifres ....meu deus tanta coisa envolvida por trás. ....", ?
+"e nesse comercial os autares estão louvando a satanás com as mãos quem conheci sabe oque estou falando", ?
+"muito 10 campeão. pᴏʀᴛɪʟʜᴏ, dias & esᴄᴏʀɪᴢᴢᴀ aᴅᴠᴏɢᴀᴅᴏs assᴏᴄɪᴀᴅᴏs", ?
+"esse negócio de fazer chinfrim com a mão e coisa de deus não só digo isso.", ?
+"boa em bob's exaltando o deus de vcs pra ter mais lucro e envenenar mais ainda seus clientes com alimentos comprometedores pra saúde das pessoas que comem sem saber a origem dos msm.", ?
+"esta dizendo que meu numero de celular é invalido ao preencher as informações para concorrer ao ingresso. e com isso nao esta dando pra ativar o cupom e nem da a opção pra nao querer concorrer a ingresso nenhum.", ?
+"bob's brasil já era pequeno! agora mini? preço pequeno também?", ?
+"manda para a rádio credencial web tocaremos aqui. massa.radiocredencial@gmail.com - tocaremos no nosso programa zona 28. demais.", ?
+"so o q faltava rockeiro comendo mini burger kkkkkkkkkkkkkk tinha que ser um gigante igual os hamburguers do sul", ?
+"qui merda é essa olha o tamanho desse negócio isso daí não dá nem pra encher a barriga kkkkkkkkkkkkkk", ?
+"ai sim heim. a gravida que tem desejo dos 3 ao mesmo tempo agradece!", ?
+"pra mim os hambuguers do bobs ja eram minis imagina esse kkkkkk", ?
+"tudo muito lindo e q nos lembrada bastante a perda deste grande ator que saudade", ?
+"esse sinal é o chifre do demônio, fiquem espertos gente todas essas empresas ricas tem pactos com o santanas  ! ops a maioria", ?
+"olha o tamanho desse lanche galera..na moral..pareci um grão de amendoim rs", ?
+"olha o tamanho da porcaria do lanche '-' prefiro e numa lachonete do q compra isso e ainda passa fome", ?
+"ariane miranda tudo pra gente acabar com nossa dieta.....", ?
+"se nao respondem nada para que o fale conosco?marketing falso e mentiroso?hoje fui na loja do shopping do meier pedir os cupoes de promoção que costumo usar sempre pois estou cadastrado no bobs fan e para minha surpresa o funcionario me disse que teria que comprar um trio?lamentavel mas isso e ilegal?", ?
+"não me contento com somente um tamanho normal, imagine mini... kkkk", ?
+"vizinho preste atenção na propaganda desse hambúrguer veja o símbolo que eles fazem o tempo todo um para o outro o simbolo satânico se não acredita vá no google ou no youtube e veja o que esse símbolo representa", ?
+"leia a maior de todas verdades que ja passaram pelos seus olhos.desperte meu irmão, e enquanto é tempo, leia a bíblia e pratique suas sagradas palavras em suaprópria vida porque a bíblia é a palavra de deus para a salvação ou condenação de todo homem.a bíblia contém a mente de deus, a condição do homem, o caminho da salvação, a condenação dos pecadores e a felicidade dos cristãos.leia a bíblia para ser sábio, creia nela para estar seguro, e pratique suas sagradas palavras para ser santo.cristo é o grande tema da bíblia, nosso bem o seu intento, e glória de deus a sua finalidade.a bíblia deve encher a sua mente, governar o seu coração e guiar os seus pés. leia frequentemente em oração.a bíblia é uma mina de riqueza e prosperidade, um paraíso de glória e um rio de prazer.a bíblia está disponível para você ainda aqui na terra e será aberta no dia do seu julgamento e você será julgado pelo que deixou de fazer de suas sagradas palavras.a bíblia é eterna, envolve a mais alta responsabilidade, sua salvação, recompensara o mais árduo trabalho, com vida eterna, e condenará ao inferno todos quantos menosprezem suas sagradas palavras, não praticando-as em sua própria vida.disse jesus:quem crer e for batizado será salvo; quem, porém, não crer será condenado(ao inferno).mc 16:16 meu irmão, medite nestas palavras e seja salvo, porque esta é a vontade de deus, a sua salvação.(i tm: 2:4)", ?
+"mini big bob foi a coisa mais contraditória que já vi kkk", ?
+"marcia benevenuto por isso que eu adoro o bob's 😍❤❤❤me leva pfvr", ?
+"por que vocês fazem isso comigo ein? vou morrer de comer e colecionar todos .. aí aí 😐😂😍", ?
+"lula não entrar como presidente o povo vai morrer não vai haver mais eleição no brasil a classe pobre quer lula eu com 64 anos votarei em lula até a morte no piauí o povo estão revoltado", ?
+"provei ontem!! vcs são d+!! aliás, amei os copos!! já tenho 2!!!", ?
+"tudo satânico fez pacto esse cinal é conhecido não tinha curiosidade de comer no bobs agora que não vou nem minha família boa sorte pra quem vai", ?
+"pesquisem o q significa esse sinal ae esse gesto, n pensem q é algo radical. gente tudo tem um significado e esse n é nada bom.", ?
+"o hit do satanismo. olha ai o sinal da igreja de satanais a mao chifrada pra muitos que nao sabem e acham isso massa. simboligia pura.", ?
+"nossa uma coisa menor e mais cara que legal nossa roubaram a ideia do mcdonald", ?
+"amei os mini burgers! comprei o meu no shopping bay market em niterói e veio super rápido e o copo é lindo!😍", ?
+"bob's brasil que tal voltar com o sanduíche de queijo com banana??? 😍😌", ?
+"alguém pode me dizer , tenho q apresentar alguma coisa nessa promoção", ?
+"ricky balla ta ai", ?
+"roseane veloso vai no shopping e compra isso td e me da o copo", ?
+"bobs de governador valadares - mg, não esta mais aceitando os cupons do bobsfan, gastei mais de 120,00 no mes passado através de cupons, vao perder um cliente se nao resolver essa questao.", ?
+"seu vidio dio de 2016 só mostra o filho que já partiu porque?do joão não apareceu porque?deve isto minha amiga!!", ?
+"jaja aparece crente ai falando que o comercial é satanista kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk", ?
+"esses caras são muito doente com esses símbolos demoníacos  crus ta amarrado..", ?
+"gostaria de saber se posso comprar só o copo inves dos hambúrgueres??", ?
+"quando passa esse comercial com essas besta fazendo o sinal de lúcifer a maçonaria deve ficar muito feliz.preste atenção na cara dos endemoniados.", ?
+"chester, vocalista do linkin parq, se matou nessa manha de quinta feira....muito bizarro !!!", ?
+"muito engracada a propaganda mas sera q vai ter so rock neste evento?", ?
+"lindaaaaaaaa aline brandão❤👏vou comer os 3 mini hambúrgueres  sozinha kkkkk", ?
+"muito boa marketing mais será que só eu percebi algo muito estranho nesse comercial???", ?
+"todos vcs tem que sabe que sinal e esse que todos fazem com suas mãos esse sinal e maldição procurar sabe tomem cuidado bom minha opinião valeu jesus está voltando", ?
+"demoro pra aparecer alguma coisa descente, finalmente um lanche rock 'n' roll", ?
+"vcs vão queimar no inferno seus ti jolos de forsa comercial entregue asatanas  jesus cristo está voutado vcs vão fica", ?
+"27 reais por um copo ,pq é a única coisa q vc ganha ,a fome continua a mesma", ?
+"amei os mini hambúrguer.agora os copos deixou a desejar em ueslei senna e janaina pinheiro", ?
+"legal o fedback que ele não te dão quando vc reclama vc passa o telefone o codigo ddd e eles dizem que nunca conseguem falar com vc  ,maior piada  essa central de atendimento.", ?
+"fui no bob's pedindo o maior lanche que eu estava morrendo de fome e os atendentes me indicaram este. decepcionado.", ?
+"isso é uma porcaria esse comercial e ainda colocou o próprio demônio.", ?
+"salve  satanas   depois  que isso  apareceu na  comecial  vou         ate come!^^", ?
+"mão chifrada representando louvor ao demônio coinsedencia cujo nome de santan satanás", ?
+"misericórdia que propaganda mais  satânica. quem conhece um pouco de mensagens subliminar e dos símbolos maçônicos e dos iluminatis sabe do que estou falando,  é realmente triste ver isso e povo acha que é uma coisa tão simples e normal mais infelizmente não é.", ?
+"parabens que deus ti ilumini e tider muintos anos de vida", ?
+"que bom que agora podemos colocar áudio nos comentários  😏 ▶ 🔘──────── 00:45", ?
+"vcs precisa prega o dez mandamentos apocalipse 12:17;14:12; êxodo 20:.....", ?
+"não gostei da caricatura de roqueiro que foi colocada no slogan, é vulgar e cafona, isso é uma ofensa aos roqueiros", ?
+"amor n ta pegando as msg eu desinstalei o coisa das msg jennifer maria", ?
+"vc ó us inzibidu mal sabe que eu só pika mais parei de jogar", ?
+"jackelyne rodrigues meninaaaa", ?
+"ta na hora da gente trocar nossos copos. felipe! 😎", ?
+"", ?
+"pão minúsculo 🍔", ?
+"olhaaaaaaaaaaaaaaaaaaaa andréa vales, um hamburguinho q eu posso comer inteiro!", ?
+"paga pra nois lah carlos alberto e  karol drielle", ?
+"tá repreendido em nome de jesus queima deus", ?
+"ih alá, aline brandão, olha só! braba demaaaaaaaais", ?
+"rayane amor, quero esse copo 😍 vamos lá comer??", ?
+"marcio da rocha", ?
+"valeu produção bob's brasil... ficou ótimo o comercial kkkk", ?
+"eduarda saca só o início desse vídeo 😂😂😂😂😂😂😂😂😂😂😂😂😂😎🤘", ?
+"luana medeiros, vamos no bob's 😭😭😭", ?
+"#soumaisdemonio pelo menos ele não disse que voltaria igual fez jesus :v podem vir evangélicos eu não tenho medo de ignorantes", ?
+"tayrine santana deus n deixa ser patrocinador", ?
+"bruno pinheiro olha aí a propaganda legal q te falei 😌", ?
+"anaaaaaaa quero o copoooo", ?
+"aline menezes pelo amlr de jesus", ?
+"vcs fiquem com seus diabos mas não critiquem o nome de deus,tem um idiota ai que disse que jesus é maloqueiro pq tem o cabelo longo...ei brother maloqueiro quando ele pôr um câncer no teu ânus ai eu quero ver tu implorar pra ele te curar,e quando a mão dele pesar sobre ti,quero ver qual diabo que vai te salvar das mãos dele", ?
+"giovanna alveshahahah", ?
+"william junior simbolismo ou não?", ?
+"jonas esse ai foi feito pra gente kkkkkkkkkkk", ?
+"thaysa vitória olha isso", ?
+"jana oliveira bora ? você come e eu fico com o copo", ?
+"promoção de comida pra voce,hihi kkkkkkk helena silva", ?
+"aumenta esse hamburguer pelo amor de deus bob's brasil", ?
+"matheus henrique katia freitas quero só o copo 😂😂😂😂👌", ?
+"olhai jessica , partiu comer no bobs, pra pegar os copos õ/", ?
+"lembrei de você sábado pro andre , larissa peres bueno kkkkkkkkkkkk", ?
+"ana arruda lembra alguém esse gesto da mão hahaha", ?
+"", ?
+"beatriz santana quero, obrigado 😘😌", ?
+"claudio novaes, e esse comercial ? kkkk", ?
+"júlio césar isso lembra oq? kkkkkkkkkkkkkkkkk", ?
+"oi, vamo? só pra pegar o copo msm 😂🌚 mariana damo", ?
+"luan fernandez olha a galera do lava jato falando kkkk", ?
+"awnnn o meu amado está em todos os comercias 😍geraldo arthur teodozio boia arley gouveia", ?
+"eai, quanto tempo n te vejo. guilherme", ?
+"eu tô desejando miga gabryela", ?
+"nunca provei e nunca vou provar,eiz ai a raiz do câncer seu ide otas propaganda subliminar e diabólica.esta reprendido em nome de jesus.,amém.", ?
+"bora comerrrrr esse amor ???? eu quero gabriela lopes", ?
+"dayane oliveira, quando formos em gyn quero comer esses trem 😂😂😂", ?
+"patrick olha isso ahsuahsuahs", ?
+"nilton passos ribeiro não é por nada não kkkk se tu quiser comprar eu já estou aceitando ok! 😘", ?
+"", ?
+"vou comer mais pelo copo kkkkkk laryh lima", ?
+"carol cunha quando bater uma vontade de burge", ?
+"carol rodrigues... olha aiii... falei p vc né... hauhauhauhauhau", ?
+"ellen douglas precisamos ir pro shopping  kkkk", ?
+"marco, ó isso! 😱😱", ?
+"márcia arabela brandão yellow compra um e guarda o copo pra mim", ?
+"daniel já quero um copo.😁😉😅", ?
+"nico, precisamos disso cara", ?
+"leandro aguiar....olha isso!..hamburguer com rock!", ?
+"victor hugo tinha que marca vc zé 😂😂😂😛😛😛", ?
+"olha o modo que o mau vem lansando o símbolo do satanismo éo anticristo", ?
+"well fernanda agora entendi a do dedinho.", ?
+"partiu umuarama vanessa?!", ?
+"karen moura preciso de um desse!", ?
+"preço inbox?😐", ?
+"luciana machado eu quero um copo desses ahahahahah", ?
+"jhonatan souza quero esse copo😍 hock holl 😎😍", ?
+"mozão elliton eu quero ♡", ?
+"temos que ir nessa poha edynha cabral kkkkk", ?
+"bora garantir os nossos,gata jane jhenifer", ?
+"borá lá, quero aquele copo natália faria", ?
+"marcella cabral voltaram com os copos. socorrooooo", ?
+"só  os iluminatis.", ?
+"luana magistralli hummm.. interessante! hahaha", ?
+"tio jose luciano dalvi bob burguin lembra?! fala com a tia....haha", ?
+"raianne macedo 🤘isso é coisa da concorrência 😂😂", ?
+"danielle te lembra alguma coisa?  kk", ?
+"cássia ferraz o comercial q te falei...", ?
+"tatiane opheliac temos que pegar copo do bobs tb! 😄", ?
+"marketing é uma ciência mds... me surpreendo. ☝😂", ?
+"lediane silva olha isso amor 😂😂😂😂😂", ?
+"duilio bueno quero esse copo vamos 😭😭😭😭", ?
+"arthur, eu quero!", ?
+"é essis sinais diabolico", ?
+"beatriz vc comendo kkkk", ?
+"vamos amor, eu quero o copo.😁 jonatas monteiro", ?
+"ronaldo maicá esse vídeo é do ale kkkkk", ?
+"jayne machado comercial engraçado kk", ?
+"ou amo rock", ?
+"r.i.p chester 😭😭💔", ?
+"os caras te copiando, waltinhoo rolim hahaha", ?
+"olha esses comentários ivando aragão kkkk", ?
+"andréa pinagé de lima será q vai ser igual da outra vez tudo pré pronto ? kkkkkkkk", ?
+"olha ai mlk yan lucas kkk", ?
+"aline ansolin ja sei onde vamos comer", ?
+"rafa dias pula pro final do vídeo", ?
+"com o símbolo do capeta", ?
+"simbolo satânico", ?
+"agora é pra gente ♥♥♥ renato farache", ?
+"xoxo ta", ?
+"se o normal já é pequeno, imagina esse 😅😂😂😂😂 djalma soares de azevedo", ?
+"victor hugo tem copo tbm rsrsrs", ?
+"nosso próximo lanche walter marques", ?
+"regina bastos olha isso, ta amarrado kk", ?
+"ué mas não já era mini ? v", ?
+"mano do céu rafaella", ?
+"tá queimado em nome de jesus", ?
+"valquiria precisamos kk''", ?
+"natália borges eu tô rindo tanto kkkkkkkkkkkkkkk só lembrei de tu", ?
+"daniella miura erick ossamu nicoleti 😂😂😂😂 pecisamls de uns 18 desses pra matar nossa fome 😂😂😂😂", ?
+"olha o gatinho de libra e capricórnio leandro pereira", ?
+"coisa do satanás", ?
+"mateus roberto ... dayana fernandes ... edivaldo pereira pereira .... kkkkk", ?
+"ai lucio felipe guimarães bora ir no shops e lanchar um desses", ?
+"pedro ferreira 🙃🙃🙃🙃🙃🙃", ?
+"carmynha batista não sei porque lembrei de você nesse vídeo rsrs", ?
+"puro satanismo. fazem o simbolo da besta na mão do começo ao final do video. qual será a bruxaria que eles misturam nessa carne?", ?
+"vitor henrique suzin já dei o seu, agora quero o meu!", ?
+"ana paula costa  garanti?  rs 😆", ?
+"é impressão minha mas é uma miniatura de burguers?! prefiro burguer king ❤️", ?
+"fica a dica duda andré certamente postaria", ?
+"eric zane vc não pode mais comer isso kkkkkk", ?
+"joão francisco me deu vontade de experimentar😋😐", ?
+"aí jair manhães;você que gosta dessas coisas!", ?
+"realmente, é tão pequeno que basta metade de uma mão pra segurar.", ?
+"ridículo o que o bob's está fazendo com seus clientes na bienal do livro, no rj. estão servindo hambúrguer de microondas e batata de saquinho, por r$ 25,00.um absurdo!!! dei preferência ao bob's, pois gosto dos sanduíches e quendo recebi, vem uma porcaria daquelas. desrespeito total com os clientes. nunca mais como nada no bob's. lamentável.", ?
+"zemmll é uma merda viu bem pequenino parece uma chimbra propagana enganosa não comprem", ?
+"pra quem não sabe esse sinal que eles estão fazendo com os dedos é um sinal que eles tem um paquito com o diabo e você a inda está dormindo", ?
+"mão xingada cara psicopata sei não em  mais parece coisa ruim", ?
+"isso é satanismo e povo é burro pra caramba em e não vem dizer que sou religioso porque eu sou ateu ! bando de alienados 😈😈😈😈", ?
+"os filhos de deus se perdem muitas vezes por falta de informação...este sinal é satânico...n estão divulgando a comida nem bebida tão divulgando o sinal da besta...tá repriendido em nome de jesus", ?
+"olha a crentaiada vendo demônio, diabo, exu, alma negra, voodoo e o kralho a 4 numa propaganda de um sanduiche que supostamente irão comer, ohh lasqueira esse povo!", ?
+"yasmim maria eu quero comprá um pra mim 😍", ?
+"quero só o copo grazi", ?
+"higor borges e lukas duarte man vamo fazer isso na escola vey kkkk", ?
+"e esses gesto subliminar com os dedos e adoração a lucifer bob s brasil?", ?
+"veja o sinal do chifre dl preto", ?
+"olha jhonatas pantoja 😌", ?
+"galera fiz uma página sobre astronomia/biologia se puderem dar uma força passando na página e deixando seu like vai me ajudar muito, obrigado.  vamos falar sobre", ?
+"camila lopes me paga um desse pfffff", ?
+"joedshow synyster gates olha esse comercial no teu padrão!", ?
+"joão marcos silva agr tambem tem como do bobs 😂", ?
+"adel derze oi voamo", ?
+"laerte paiva só que são mini hambúrgueres rs", ?
+"matt lopes quero um copo :3", ?
+"thais florencio veja os comentários kkkk", ?
+"pietra machado vamos camer isso pfv ❤️", ?
+"ingrid gama olha o tamanho kkkk", ?
+"vamooos love.  jack souza", ?
+"isabella resende preciso de um desse kkkk", ?
+"oi, me dá um desses de aniversário pfvrzinho bruna aline paula darah érica bianca", ?
+"olha o copo mo fernanda", ?
+"ronald lopes  não vi antes... :(", ?
+"mais  um comercial satanista mãos chifradas", ?
+"comercial do bob's inspirado no pedro henrique ! pedro bittencourt, leonardo andrade, hiago vinicius, juninho rodrigues, igor brum", ?
+"camila sampaio ein?? ???", ?
+"davi bertucci eiiiiiiiiiiiiiiii", ?
+"fabiano soares", ?
+"raissa moreira", ?
+"lenilson p. santos mayara fritzen vamo?", ?
+"marcelo!!!", ?
+"guilherme oliveira david geraldo", ?
+"vinicius oberek quero", ?
+"dani ferreira quero", ?
+"larissa teixeira vamos", ?
+"mano9oiiiiiooo leonardo marques", ?
+"triste é o supla mas eu super curti os copos. já quero todos. 😃", ?
+"luise! tirando o supla, achei a ideia bacana.", ?
+"camila schuck me leva? 😇", ?
+"era o supla ou ana maria braga?", ?
+"o mercado da música tá virando haha vlw bob'shallisson araújo miti sanches samyr alvarenga sossai", ?
+"lorena silva maddox", ?
+"supla aprovou?caraca,nem passo perto.", ?
+"satanismo pra todos verem e a maioria acha legal ...jesus está voltando ...prepare-se enquanto a tempo", ?
+"thalita beniti kkk", ?
+"yuri", ?
+"gregori maia everton moreira david azevedo gilbert lima  jorge silva kkkkkkk", ?
+"https://chat.whatsapp.com/e2pjsivv6eo7sz0dg9t1kq.                                                           todos que queiram investir sem gastar nada.                          vc ja tem o aplicativo picpay?o grupo se trata desse vc aplicativo vc baixando ele, vc se cadastra te damos um código, e vc ganhara 10 reais ai vc pode investir no grupo e ganhar 80qnd chegar sua vez vc não vai entrar ganhando de iníciomas assim q pessoas forem entrando seu nome vai avançando na roleta do perfil do grupo vc acompanha laaté chegar sua vez de ganha.                      não paga nadaos 10 p investir, vc vai ganhar no aplicativo, ao inserir o código que iremos te dar esses 10 vc vai pagar p pessoa q ta no meio da roleta", ?
+"yasmin camargo eu quero💔😐", ?
+"até o supla aprovou! credo papito! kkkkk", ?
+"o supla? meeeeeu deeeeus! 😂😂😂😂😂", ?
+"thamires rivas thiago ferreira quero esse hoje", ?
+"ok ... mas oq o rock n rio tem de rock n roll? pelo menos o supla tenta...", ?
+"supla é ridículo! kkkkkkkk", ?
+"estragaram o anuncio no final....supla//////////////////", ?
+"bobs fazendo comercial no nível do milk-shake, agora aquele com a preta gil o coisa tosca", ?
+"parece ser uma delícias, não vou comprar porque o supla fez comercial", ?
+"colocar o supla no comercial do bobs foi ideia de gênio.", ?
+"matheus rodrigues", ?
+"só quero rock de novo no rock in rio", ?
+"sério? o supla, pqp", ?
+"tanta gente pra chamar, chamaram logo o supla no comercial", ?
+"supla", ?
+"o supla kkkk é um poser", ?
+"perdeu no supla 😂", ?
+"come e mr da o copo carlos antonio", ?
+"supla?  sério isso?", ?
+"nossa o supla, que fóda.", ?
+"willian andrade eu quero", ?
+"olha onde está o panqueca beatriz nascimento", ?
+"rock in rio kkkk,  de rock so o nome mesmo", ?
+"supla vc é uma figuraça! rs", ?
+"quando vai ser o próximo rock in rio", ?
+"thiago rodrigues carla magalhães", ?
+"aninha daris lembrei de você", ?
+"vai ter sorteio do rock in rio para dia 23/03?", ?
+"saloá hausmann kkkkkkkkkkkkjjjjj😏", ?
+"supla mito! hahahaha", ?
+"alexsandra lifsitch quero viu", ?
+"desde quando o supla representa o rock no brasil comercial de merda eim[", ?
+"leonardo santos e romario macedo barchi... partiu pegar os copp", ?
+"supla é um viado ateu satanista", ?
+"https://www.breakingforgold.com/contest/1/entry/859 me ajudem a participar da olimpiadas de 2018 apertando nesse link e votando em mim <3", ?
+"ari santos", ?
+"mellyssa bittencourt", ?
+"jamile almeida", ?
+"fernandofernando rafael medeiros se liga akakaka", ?
+"giselle albuquerque", ?
+"taiane monsores, rafaella costa, larissa elen, lorena santos, alessandra affonso vamos? 😀", ?
+"mor quero esses copos bruna rodrigues souza ❤️", ?
+"milena leonel", ?
+"laura santos", ?
+"partiu lanchar bruna vidal e isabelli almeida", ?
+"waleska souza dalbério compra pra mim em imperatriz", ?
+"franciele baierle  feito pra mim kkkk", ?
+"thais machado olha que massa", ?
+"victor santos", ?
+"mariana mariana valeria eu quero", ?
+"junior alves", ?
+"eu quero e vc vai me dar 😉 leonardo carvalho santos", ?
+"eu quero 😱😱😱😱 elanne costa", ?
+"renan rego hahahahah", ?
+"já quero! berg veiga", ?
+"mão chifrada affff", ?
+"confira os quadrilheiros  que votaram a favor da reforma trabalhista, portanto, a favor dos empresários e contra os trabalhadores, destruindo direitos duramente conquistados, com muita luta, lágrimas e sangue. guardem esses nomes, para que nunca mais sejam eleitos.aécio neves (psdb-mg)ana amélia (pp-rs)antonio anastasia (psdb-mg)airton sandoval (pmdb-sp)armando monteiro (ptb-pe)ataídes oliveira (psdb-to)benedito de lira (pp-al)cássio cunha lima (psdb-pb)cidinho santos (pr-mt)ciro nogueira (pp-pi)cristovam buarque (pps-df)dalirio beber (psdb-sc)dário berger (pmdb-sc)davi alcolumbre (dem-ap)edison lobão (pmdb-ma)eduardo lopes (prb-rj)elmano férrer (pmdb-pi)fernando bezerra coelho (psb-pe)flexa ribeiro (psdb-pa)garibaldi alves filho (pmdb-rn)gladson cameli (pp-ac)ivo cassol (pp-ro)jader barbalho (pmdb-pa)joão alberto souza (pmdb-ma)josé agripino (dem-rn)josé maranhão (pmdb-pb)josé medeiros (psd-mt)josé serra (psdb-sp)lasier martins (psd-rs)magno malta (pr-es)marta suplicy (pmdb-sp)omar aziz (psd-am)paulo bauer (psdb-sc)raimundo lira (pmdb-pb)ricardo ferraço (psdb-es)roberto muniz (pp-ba)roberto rocha (psb-ma)romero jucá (pmdb-rr)ronaldo caiado (dem-go)rose de freitas (pmdb-es)sérgio petecão (psd-ac)simone tebet (pmdb-ms)tasso jereissati (psdb-ce)valdir raupp (pmdb-ro)vicentinho alves (pr-to)waldemir moka (pmdb-ms)wellington fagundes (pr-mt)wilder morais (pp-go)zezé perrella (pmdb-mg)", ?
+"guarde meu corpo jessica natasha", ?
+"crix furtado❤te amo bb", ?
+"quer apostaar que vai tar la no youtube mensajens subliminar no video do bobs..", ?
+"morini ferreira vamo comprar", ?
+"supla?? kkkkkk", ?
+"", ?
+"alisson roberto, eu quero. 😍", ?
+"quero migs laura ortegal", ?
+"kjkjkj se liguem nisso vitor augusto luiz guilherme freitas neto", ?
+"elisandra regina podia vir pra cá essa promoção", ?
+"luiz gabriel sommerlatte, me identifiquei :)", ?
+"", ?
+"", ?
+"pelo amor de deus façam um sanduíche melhor no rock in rio desse ano. não suportamos aquele entala gato de 2015!", ?
+"podia ter copos do slipknot ❤️", ?
+"anna maria lopes rodrigues ta na hora de um copo novo pro papai", ?
+"rodrigo rdg olha amor", ?
+"wellington naoyoshi maeda olha que legal xd", ?
+"felipe caique renan daniel 🤘🤔", ?
+"saudações de entidades demoníacas 🤘🏻 .coisa mais ridícula.😡😡😡", ?
+"danilo faz o sinalzinho da amizade", ?
+"gilmar olivera olha mô 😍", ?
+"parabéns.. capricharam no comercial", ?
+"thaís, novos copos pra vc! 😍", ?
+"jéssica precisamos ir pra conseguir esses copos.", ?
+"aloisio junior gustavo santana maicon vasco", ?
+"qeroooooo vinícius santos", ?
+"kaio medeiros karoline tavares", ?
+"eudes aaaaaaaaaaaa queria 😥", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"o gente....é 27$ sem o copo?? ou com o copo??", ?
+"ana maria braga gritando no final gostei", ?
+"o quê mais interessa, o preço!", ?
+"olha ai natália santos os mini burgers, bora experimentar ??", ?
+"já foi melhor copos do bobs. na edição passado foi melhor.", ?
+"branca bey quero", ?
+"mick santos mês que vem no dia do lixo 😍😱😂👏", ?
+"marcelle polyanne olha isso", ?
+"felipe vicente era desse comercial que eu tava falando", ?
+"3 mine burger uau, e os grande sao os quais? os nano buger?", ?
+"julia querino, lembra de quem ? kkkkkkkkkkkkkk", ?
+"suellen umezu,quero um copo desse tbm kk", ?
+"- liindsz ' 😍🖤", ?
+"renan quero o copoo", ?
+"q eu saiba.....esse sinal feito  no video, é satânico !", ?
+"", ?
+"", ?
+"ward rafa bastos curte aq so pra salvar", ?
+"amor alberto cruz, vamos! quero ganhar o copo", ?
+"micaias", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"qual o nome dessa música de fundo? já ouvi mas esqueci o nome 😅", ?
+"vanessa garcia", ?
+"", ?
+"andressa nerys", ?
+"leon teller", ?
+"", ?
+"hiago diniz", ?
+"segundo a logica dos crente aqui,o capeta patrocina o bob's kkkk", ?
+"renata santos", ?
+"caroline carvalho já quero", ?
+"letícia rafaeli , patrícia yuri meu copo", ?
+"", ?
+"alysson martins é esse que eu quero ok, primo!", ?
+"thais cristina. alessandra carvalho. gisleide medeiros. layane sena. linda silva. aline bispo. iara ranielle. aprendam a vender .kkkkk", ?
+"olha o que eu falei, vida. lucas bezerra", ?
+"isso so com uma mordida já era pedro henrique", ?
+"kell pires o comercial que eu falei kk", ?
+"eu quero vinicius *-*", ?
+"tá afim de ir jantar hoje??? laércio mota", ?
+"jéssica cristina kkkkkkkkk que meeerrrdaaa", ?
+"fernanda rezende", ?
+"os lanches são sensacionais, e adorei meu copo.", ?
+"o lanche e mini, mais o preço é big!!! hahahah", ?
+"anna quero comer aqui so pra isso amor, bora", ?
+"mini kkkkkkkkkkkkkk jao são muito grande os normais kkkkk", ?
+"já num era mini? hahahaha", ?
+"menor que um grão de arroz !!!", ?
+"isabella béllio bertini assiste ai po", ?
+"jorge takeo vamos eu quero um copinho rsrsrs", ?
+"", ?
+"", ?
+"anúncio besta😂😂😂😂", ?
+"só tem satanista", ?
+"jérsica lima olha que legal os mini hambúrguer", ?
+"jeff l. silva temos q comprar amor!", ?
+"alex arruda eu quero bobs ♡", ?
+"bom dia", ?
+"", ?
+"wegton lucas ahauahsuahsuqhs a", ?
+"joslaine santos clica lá em cima em cadastrar", ?
+"nem vou depois dessa propaganda!", ?
+"felipe leite", ?
+"já provei e adorei ❤❤❤❤❤", ?
+"aí sim", ?
+"", ?
+"", ?
+"", ?
+"gente e esse símbolo do demônio no começo do vídeo kkkkkkkkkkk bobs iluminat 😂🔥", ?
+"como eu sempre falo: a propaganda, é á alma do comercio", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"amanda sussel", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"thays santos eu quero o copo 😭😭", ?
+"jéssica ferraz", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"o lanche normal já é minúsculo... imaginem esse", ?
+"", ?
+"bagulho satânico da poha", ?
+"poser..ma oiiii", ?
+"linda", ?
+"gente o meu cadastro só tá dando inválido o que eu faço???", ?
+"é só e do diabo veado mão chifrada kkkkk", ?
+"sempre tem uns crentes bitolados aqui.  😂", ?
+"salve satan.  \m/", ?
+"esse primeiro riff foi inspirada em hey joe na versão do hendrix ?", ?
+"só no bob's 😜🔝", ?
+"", ?
+"lucas, olha amor", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"o mini burguer vai ser do tamanho do hambúrguer normal então kkkkkk", ?
+"kkkkk meu amigo fez a propagando só notei agora", ?
+"vcs tem loja em sp em shoppings ?", ?
+"hahaha, que piada de festival", ?
+"aguardando os comentários evangélicos dizendo que é o sinal de satanás 🙂", ?
+"o sangue de jesus tem poder.jesus cristo vive.", ?
+"é rock´n roll !!  🤘", ?
+"", ?
+"", ?
+"delícia, comi ontem muito gostoso!!hummmmm.", ?
+"gostoso", ?
+"vcs se aproveitaram pq ontem foi dia do rock", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"até quando vale a promoção? preciso desses copos 😍❤", ?
+"estão esperando a prisão de lula vai cansar kkkkkkkkk", ?
+"é rock n'roll nas veias!!!", ?
+"aham, puro hot pocket", ?
+"um abraço", ?
+"tava ficando legal... até aparecer o suppla gritando", ?
+"gosto de rock gosto do bob's porem esse comercial com esse sinal diabólico é ridículo.", ?
+"aislan cordeiro essa publicação aqui que falei da tia noia", ?
+"massa", ?
+"aprovado!bobs é bobs!", ?
+"odeio essas empresas que usam tudo como massa de manobra", ?
+"", ?
+"", ?
+"", ?
+"porque colocar esse escroto do suplantar? !", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"meio satanico adoraçao ao cao miudo", ?
+"cadê o cupom bob's?", ?
+"eu também tô solteiro", ?
+"🤔mas este jesto nun é o significado da mão chifrada 🙄, tô fora!!", ?
+"que legal eu até hoje tenho um dvd da hello kit ❤️❤️", ?
+"nem é essa cena, marketing ruim", ?
+"", ?
+"paullo s. barros pqp kkkkkkkkk mt igual.", ?
+"elita o q a gente faz agr kkkkkkkkkkkkkk temos q voltar lá", ?
+"parece diabólico isso fdc", ?
+"eu quero, mas na minha cidade não tem bobs 😅", ?
+"é quanto é esse trio?", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"hambúrguer ruim e sem graça...", ?
+"o funk  nunca terá uma homenagem assim chora fankeiro. hahahahahahahahaha", ?
+"parem de usar o rock pra vender bicho morto com pão.", ?
+"comercial totalmente diabólico tá doido", ?
+"quando abrir aqui em canoinhas sc", ?
+"que merda é esta?", ?
+"", ?
+"geyse, nielly, fabricio, rodrigo", ?
+"ixi  os cara tao apelando nas msg ocultas ce é loko, rock é vai", ?
+"lucas bettencourt kkkkkk", ?
+"cesar limajanynnie mattosassuero messias😂😂😂😂", ?
+"fofinho", ?
+"mds eu tenhos esses copos do ano passado eu acho", ?
+"olha só o pessoal fazendo o símbolo de satanás (os chifres)", ?
+"sou mais mac donald ss", ?
+"", ?
+"satanistas", ?
+"tô com fomeeeee😂😂😂😂👌", ?
+"eu não sei esas pessoas ainda dis quê di deus adorando satanás", ?
+"olha o cinbolo nas mãos das pessoas sabe osignificado mão chifrada", ?
+"rock in roll   bob's", ?
+"lumara, já quero os copos, ok?!", ?
+"eu comprei, mas n gostei nao.", ?
+"tenho todos 😍😍😍😍", ?
+"todo mundo fazendo o sinalzin da amizade :v", ?
+"", ?
+"dorei já kero fazer comercial", ?
+"amei .", ?
+"eu tenho 😍", ?
+"olha itamar mendes", ?
+"camilla sousa", ?
+"eu quero paola angel; juliana oliveira, suelen fonseca..", ?
+"carlos quero esses copos😍 e é claro o sanduba tbm😍😂❤", ?
+"melhooor comercial 💓💓💓💞", ?
+"preciso dar um confere nesse trio. 🍔🍔🍔... 😋", ?
+"", ?
+"", ?
+"sem duvida o melhor hahahaha 🤘😍🤘", ?
+"símbolo satânico?mensagem subliminar😧kkkkkkque povo idiotasao os crentelhos fanaticos", ?
+"eu tb fiz com a mao automaticamente skekkddk", ?
+"valor", ?
+"tárrzzzd", ?
+"quanto tá?", ?
+"", ?
+"", ?
+"", ?
+"não mudou nada o tamanho, o outro já era minúsculo", ?
+"já comprei o meu e amei", ?
+"esse comercial e apologia ao satanismo, mão chifrada adorando satanás", ?
+"esse cinbolo e pra quem nao sabe e de adorasao a satanas", ?
+"faz o sinalsinho da amizade 🤘🎶", ?
+"mahaba", ?
+"herica loyola nagaishi espia <3", ?
+"e pegue mensagem subliminar #satanissismo", ?
+"dah hr gostei do lanche e do rock  in rio", ?
+"que propaganda tosca, pqp...", ?
+"esse bob's brasil e bacana", ?
+"unnn dilicia kkk e rock e rio", ?
+"", ?
+"", ?
+"adicione to divulgando 🐾🍎", ?
+"quanto custa???", ?
+"illuminatis kklkk", ?
+"qual o valor dessa delícia?", ?
+"isso é do capeta", ?
+"tenho que pegar o meu kkkk bob's só sei fã", ?
+"quando a que tiver bob's vou fazer do mesmo jeito aaaaaa", ?
+"eles estão se mostrando cada vez mais a mídia manda em tudo ...", ?
+"q nojoooo.só de olhar para o uniforme dos funcionarios.", ?
+"esses copos podem ser usados dentro da cidade do rock ?", ?
+"obg!!!", ?
+"kkkkkk. boa", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"é isso vc é o homem mais corajoso no nosso país parabéns", ?
+"massa", ?
+"big bob picanha e muuitooo bom", ?
+"muito massa😱❤", ?
+"han mini hambúrguer não dá nem pro cheirinho pra matar minha fome", ?
+"um oi pra quem nunca vai ver o dia durante funk", ?
+"minha reclamação e o tamanho desse lanche comparado com um nos eua porque no brasil e megebinha..", ?
+"muito show a propaganda kkk", ?
+"eu te quero amor biia de sá compra pra mim ? ❤😍👏👏😊", ?
+"legal", ?
+"assim meu coração não aguenta", ?
+"", ?
+"adorei isso!", ?
+"esse sinal q eles fazem com a mão é  satânico", ?
+"sinal de muita torce e pouco catarro", ?
+"musica ?", ?
+"e essis sinais diabolico", ?
+"melhor propaga kkk ❤", ?
+"#joaninha", ?
+"não gostei", ?
+"queeero", ?
+"mini? já são pequenos pra caramba imagina o mini", ?
+"melhor comercial ❤️🤘🏼", ?
+"aaaah qero", ?
+"alguém aqui achou que era grande?? pensei que já fosse mini!", ?
+"mas todos os sanduíches são mini. 😐", ?
+"lindos", ?
+"olhos bem, 👀👀👀", ?
+"adoradores de satan", ?
+"eu com fome aqui e me aparece uma coisa dessas! fruta que partiu", ?
+"gostaria de saber de qual material os copos são feitos", ?
+"deu até fome.", ?
+"pedi esse", ?
+"me patrocinem pelo amor de poseidon <3", ?
+"pesoal vms te mais conhecimento sobre esses sinais q adora o diabo", ?
+"quanto que ta, binho mone? vou ir pegar o meu <3", ?
+"o vocalista do linkin park se matou não  vai  mais ter graça 😢😢😢😢", ?
+"por aquele precinho absurdo!", ?
+"mensagem (subçiminar )rolando souta", ?
+"e os normais, já não são  mine burgers?", ?
+"vamos?", ?
+"gente o copo é vendido avulso?", ?
+"bob`s enos muito louco.....", ?
+"diêgo luigi a gente fazendo propaganda kkkkkkkkkkk", ?
+"", ?
+"", ?
+"", ?
+"valeu bobs <3", ?
+"símbolo diabólico tô suave.", ?
+"deveria fazer um crossover com a ana maria braga kkkk", ?
+"quero logo minha cidade no cadastro do bob's fã 🙏🏻🙏🏻", ?
+"miniburguer? ta mais para amburger normal kkk", ?
+"o rock virou moda agora?", ?
+"invocação satanica😈😈😈 que orror😦😱👎👎", ?
+"coisa de noia kkkkkk", ?
+"minha opinião.nao. gostei da propaganda misericórdia 🙈", ?
+"luana veiga languer", ?
+"ana maria braga?", ?
+"mão chifrada símbolo satânico! todos eles saúdam assim", ?
+"menor do que já é? cs são bichão memu hein doido!", ?
+"mas aí... é quanto um desses?", ?
+"#subwayurca s2", ?
+"falar de políticas não tô fora", ?
+"achei que o tamanho normal já era o mini", ?
+"é uma merda", ?
+"faz o sinalzinho da amizade!", ?
+"so nao gostei das incinacoes com os  dedos", ?
+"só não entendi esse símbolo satânico na propaganda. .", ?
+"eu quero", ?
+"92284931", ?
+"eu quero", ?
+"só como no bob's", ?
+"comercial satânico simbolo diabolico", ?
+"se eu não gostar tem devolução?", ?
+"tanta enusencia.que so mostra que estudo nao abre mente.", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"prefiro sabway", ?
+"além de levar o cupom,eu tenho q pagar pelo lanche?", ?
+"um abraço", ?
+"#cobra", ?
+"se o big, super, king, mega e supremo  já é pequeno imagina esse mini 😒", ?
+"o normal já é pequeno imaginem o mini kkkkkkkkkkk", ?
+"só vim ler os comentários dos evangélicos...", ?
+"achei que já tava vendendo á anos 😂😂😂", ?
+"rock e coisa do capeta", ?
+"sdds do bob's na minha cidade", ?
+"sinal satânico purinho!", ?
+"amei o copo bem resistente", ?
+"larissa barbosa", ?
+"tenho os meus😍", ?
+"ahh.. por isso que eu durmo mal... 💔", ?
+"rock 🤘🤘🤘 qr compra um desse um não varios", ?
+"símbolo diabólico isso ai!", ?
+"não quero copos, quero ingressos. 😍", ?
+"claudia leite e ivete sangalo vão estar ? kkkkkkkk", ?
+"símbolos demoníacos 🤘 se é louco meu!!!!", ?
+"sandubão!!!", ?
+"pense num grude da mulesta", ?
+"", ?
+"", ?
+"é boum recomendo", ?
+"show!", ?
+"partiu bob's", ?
+"iluminati kkjjk", ?
+"iluminattes kk", ?
+"esta por  quanto ???", ?
+"em todos os bob's ou só alguns???", ?
+"propaganda do diabo sai fora td iluminati", ?
+"esses dedos chifrados hum hum .", ?
+"esse não dá nem para o cheiro", ?
+"qual o preço?", ?
+"a promoção tem quantos copos no total?", ?
+"não compensa", ?
+"vou hoje experimentar em <3", ?
+"t amarrado kkk", ?
+"já quero <3", ?
+"so falta chegar e ele ser menor ainda😒", ?
+"desculpa.. mais essa foi a invenção mais idiota 😂😂😂😂", ?
+"ficou ainda menor? kkkkk", ?
+"- jônatas borges  conversa  pika  kkkkk agr desenrola men", ?
+"delicia hummmm amo todos !!!", ?
+"qual o valor ?", ?
+"daiana", ?
+"#cobra", ?
+"simbolo do capeta esse...", ?
+"que lixo.", ?
+"partiuuu completar minha coleção <3", ?
+"luciana v. p. manhães", ?
+"e os novos brinquedos chegam quando?", ?
+"gente esse é o comercial mais satânico que já vi meu deus .", ?
+"keruak veras ksks", ?
+".", ?
+"quanto ta?", ?
+"coisa  do cão não vou adorar satanás", ?
+"tbm vo da pra três o copo e meu", ?
+"mão chifrada", ?
+"luminartti", ?
+"se o original já é mini,imagina então kkk", ?
+"maravilha e o de nutella?já provaram ?que delícia !!!", ?
+"", ?
+"bob'sponja", ?
+"felicidades", ?
+"to com agua na boca", ?
+"qual o material do copo?", ?
+"genial!!! <3", ?
+"faz o sinalzinho da amizade 🤘🏽 😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂", ?
+"guilherme gomes desejo de grávida do dia...", ?
+"robson terto❤😍😍😍", ?
+"oque já era pequeno ficou  menor ainda", ?
+"emojiam.com", ?
+"emojian.com", ?
+"qual valor ? se o valor for mini é bom.", ?
+"se nem 2 burguer grande me enche imagina 3 pequeno kkkk", ?
+"bobs e vida acabei de comer o meu kkk copo showww", ?
+"viviane santos quero", ?
+"igor souza aquele ocultismo lkkl kkk", ?
+"esse símbolo aí mano não é comigo", ?
+"linkin park", ?
+"#cobra", ?
+"caracas. !!!!?", ?
+"é do bobs isa 😂😂😂😂", ?
+"yes!! <3", ?
+"qual valor do combo ?", ?
+"parabéns kkkk", ?
+"#xoxo", ?
+"alguem sabe o nome da musica do vídeo?", ?
+"ainda mais pequeno do que antes kkkkikkkkk", ?
+"odepdp", ?
+"xbox 2", ?
+"figura", ?
+"meu sonho aprender dança 😢", ?
+"amém eu recebo", ?
+"linda lu", ?
+"comercial fantástico .", ?
+"só eu que estou imaginando os crente pirando com esse comercial?????", ?
+"n existe o aplicativo do bobs fã mas n ??", ?
+"o sinal do capiroto ta ficando comum", ?
+"eu quero kkk", ?
+"iluminati", ?
+"simbulo satanico", ?
+"satânico", ?
+"eu acho winderson nunes um lixo um tremendo de um bosta estrume", ?
+"só ñ gostei desses dedos chifrado  vc ñ perceberam q é uma propaganda satanismo mão chifradas", ?
+"hsahah", ?
+"quanto custa?", ?
+"qual o endereço", ?
+"vou assaltar esse copo e.e", ?
+"q paia kkk", ?
+"esse é o sinal da besta pra quem não sabe fique sabendo agora.", ?
+"pq um mini hamburger???😕😕pq n um normal msm??", ?
+"símbolo satânico e todo mundo come  essa porcaria", ?
+"rock and ivete sangalo/claudia leite", ?
+"satanismo pura esses gestos com os dedos", ?
+"mão chifrada,  já sabem o significado né, satanismo puro", ?
+"supra kkkkk pow bobs, ele é a vergonha do rock", ?
+"é tão grade que segura só com dois dedos kkkkk", ?
+"essa ai já da pra perceber que e dedicada ao capirote kkkkk", ?
+"adorei", ?
+"linda", ?
+"bobs 😍😍😍😍", ?
+"bob's é vida😍❤", ?
+"rosque pora", ?
+"qual o preço?", ?
+"qualmk valor do trio?", ?
+"já queroooo", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"juliana matos vanessa freitas mais um pra gente provar", ?
+"maria eduarda soares quero", ?
+"edihhwkaboelsdkffkrwhetow", ?
+"sinal do diabo", ?
+"que comercial lixo", ?
+"rock e metal é tudo do capeta", ?
+"valor?", ?
+"/0/ maeeee bora pro bob's", ?
+"que meu comentário não seja apagado", ?
+"já chegou em recife? está por quanto?", ?
+"tem opção veganas na minha cidade? bob's brasil", ?
+"primao gosta muito kkkk", ?
+"todos louvando ao diabo", ?
+"eles fazem no video o maior sinbolo satânico eu to fora", ?
+"evil sign", ?
+"tem bob's em sbo ?", ?
+"alguém sabe o nome da música?", ?
+"é nois", ?
+"mc donald deveria fazer tmb", ?
+"quem não conhece acorda pra vida e pra deus", ?
+"lindas", ?
+"mybanana.ga/gabriel", ?
+"esse símbolo é satânico", ?
+"legal", ?
+"que música é essa :o", ?
+"ficar grande ednei lopes😂😂😂😂💣💪💪💪💪", ?
+"isso é coisa diabólica", ?
+"mais uma propaganda demoníaca.", ?
+"quem vai jogar essa mão chifrada em nome de jesus", ?
+"mas uma manipulação de satanás, para ser adorado pelo o gado..", ?
+"quanto que deve estar??", ?
+"rá rá rá", ?
+"ficou show de bola", ?
+"sabem me informar o valor?", ?
+"quem curtir gosta de dar a bunda", ?
+"linda de +", ?
+"quanto custa?", ?
+"pq não tem o cupom pra minha cidade?", ?
+"tudo satanista !", ?
+"linda", ?
+"melhor propaganda 😅😍🤘", ?
+"o sangue de jesus tem poder", ?
+"ta amarrado esse sinbolo", ?
+"tudo isso por apenas 100 reais 🤔😂", ?
+"coisa do satanás quanta simbologia", ?
+"gostaria de saber  onde faço uma reclamação ?", ?
+"kkk e esse sinal diabólico", ?
+"eitaaaaa o demonio tá dominando", ?
+"copão bonito!", ?
+"sempre foram mini, agora são mini mini? o.o", ?
+"as pessoas nem percebe q no comercial a marca faz símbolo satânico", ?
+"beatriz serrano olha o que deixei de comer hoje. obg dnd", ?
+"bosds", ?
+"trosso bobu", ?
+"que precisa fazer xifres assim", ?
+"propaganda satanista", ?
+"só vc é a preta gil comem isso", ?
+"heheee bobs rock", ?
+"qual o valor do lanche???", ?
+"rodrigo silva eu quero 🤣 e não é por causa da propaganda 😁😁", ?
+"nooossa eu quero...rock e vida!", ?
+"steriotipo de rock que merda e so market", ?
+"aldo alexandre de albuquerque pamplona ammoorrrrr", ?
+"comercial satânico  o satanismo cada dia mas explícito", ?
+"para mim esse símbolo que fazem com a mão e do diabo 😈👈....😐", ?
+"um mini hambúrguer de um mini hambúrguer, bem pensado 😉😂", ?
+"a mão chifrada neh 👿. 👿. 👿. 👿.", ?
+"eu tenho o roxo", ?
+"gabriel seiji biel vou levar pra gente sexta", ?
+"agora já posso enfiar tudo na boca", ?
+"odiei. já é  pequeno agora estão cobrando até amostra grátis", ?
+"ana vamos ...???", ?
+"meu sonho ter amigos rockeiros", ?
+"\m\ !!!!", ?
+"rocks hool", ?
+"muito bom.❤", ?
+"gostei gostei dos melhores", ?
+"porrraaaa rsrsr", ?
+"só adora o satanás essa raça safada", ?
+"fodastico", ?
+"boa tarde", ?
+"quero 3 gratuito", ?
+"olha o ocultismo.  kkkkkk", ?
+"عندك متل هل همبرغر abood sy", ?
+"sou mais um arroz com feijao kkkkkkkkkk", ?
+"mini burger o normal já é pequeno!", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"já era pequeno agora ficou ainda menor... aproveitem", ?
+"agora  me deu vontade luciana maia vamos irrr", ?
+"#barata", ?
+"sinal satânico", ?
+"hhhuuuummmmm esse e o bobs do 7 pele!! !!", ?
+"fazendo símbolo masonico", ?
+"qual o valor ?", ?
+"só falto o combo de pitu 😍", ?
+"devil sign", ?
+"tá repriendidos", ?
+"bobs <3 pena q sou pobre pra ta ai todo dia uhaeuhaehuaeuh", ?
+"duas bocadas nesse amburguer já era!!", ?
+"uriel rocha, olhe, estão roubando nossa marca.", ?
+"já estou com o meu é lindo😉", ?
+"isso é sinal do capeta", ?
+"melhor comercial de hambúrguer do mundo", ?
+"mande o link p o cupom de desconto por favor", ?
+"satanismo puro nesse comercial misericórdia", ?
+"misericórdia o tempo todo do comercial, satanismo puro", ?
+"caramba essa é a legítima mão chifrada bob's é iluminat", ?
+"partiu bobs em  balneario camboriu", ?
+"faz o sinalzinho da amizade .kkkkkkk", ?
+"satanás puro", ?
+"até o couver  do  billy idol aprovou kkkkkkkkkkkkkkkkkkkk", ?
+"onde encontro", ?
+"esse sinal com os dedos é do capeta", ?
+"lixo.com", ?
+"eu querooooo", ?
+"delicia.", ?
+"lanche miudo seh loko prp inferno vcs do bobs", ?
+"a mão chifrada do capeta também é propaganda", ?
+"amanda bora, partiu ir atrás de um desses", ?
+"heitor na veia larissa na cadeia", ?
+"publica fotos individuais de cada modelo dos copos please", ?
+"nem q me desse eu comeria isso..", ?
+"roki uma bosta", ?
+"mas qd tu", ?
+"e verdade", ?
+"q lixo!!", ?
+"comercial satânico !!!!", ?
+"mensagem subliminar do bobs😈", ?
+"qual o valor??", ?
+"sinal du gramulhão", ?
+"ha tá 😀😀👍👈👏", ?
+"giovani d. vinha eu quero!", ?
+"não tem no delivery?? não consigo pedir ele no rj pelo delivery", ?
+"esse símbolo com as mãos é satânico...povo abra os olhos vcs estão se enganado...", ?
+"vai ser ótimo pra mim que nunca sei oq escolher, peço 1 de cada.", ?
+"ó bobs sempre arrasa nos sanduíche 🍔", ?
+"nao acho nada manero,reverencia que eles faz ao diabo!", ?
+"pop in rio arrebentando no merchandising!", ?
+"estes cinal com as mãos e diabólico", ?
+"ana catto vamossss❤", ?
+"esse sanduba é do capeta.......", ?
+"olha aí kkkkk bom", ?
+"que bomta", ?
+"be fh", ?
+"símbolo do diabo ....n gostei", ?
+"legal rock", ?
+"símbolo pagão  do satanismo", ?
+"esse clipe ele e puro satanista", ?
+"essa é a visão", ?
+"cade o milk shak em maiara", ?
+"ai sim😎", ?
+"lixo.com", ?
+"alguém sabe me dizer se o copo é de metal ou plástico vagabundo ?😏", ?
+"coloca um bob's aqui em bom jesus piaui pois ta precisando!", ?
+"seria melhor o massacration - o retorno fazendo o comercial...hahaha", ?
+"mensagens subliminares . deus é mais", ?
+"olha o copo, amor!!! herbert ❤️", ?
+"quando voce comprar um lanche do bob's brasil", ?
+"vam pro diabos que os carreguem com estes gestos", ?
+"que lindo meu irmão.  parabéns!", ?
+"ué mais os sanduiches ja nao eram minis??? auhahaha", ?
+"😋🤘🤘", ?
+"misericórdia deus é maior.", ?
+"conseguir o meu copo, adorei a promoção. 😍😍", ?
+"francisco carvalho eu queria um ❤❤ ameiii", ?
+"esse símbolo é satánico", ?
+"#cobra", ?
+"quando é o rok in rio??", ?
+"bauru não tem 😐", ?
+"símbolo satânico", ?
+"faz o sinalzinho da amizade!", ?
+"faz o sinalzinho da amizade 🤘🎵🎶", ?
+"olha as mãos deles", ?
+"qual o valor?", ?
+"comercial diabólico", ?
+"não você está errado!", ?
+"show!valeu bob's..!tmj.👏🏿👊🏿🤘🏿", ?
+"waldir júnior quero os copo tudo", ?
+"vamos comer na segunda kkkkkkkk micaele duarte", ?
+"minha fome é muito grande pra um mini hamburger", ?
+"uma bosta de comercial eo lanche tbm", ?
+"claudio zeferino olha eu na propaganda papitooo", ?
+"pra mim esse é o sinal de satanas... propaganda podre", ?
+"keylla vitoriano preciso desse copo 😍😍😍 vamooooooo", ?
+"neidiane santos 😂😂😂", ?
+"deus tem poder deus e mas", ?
+"esse sinal edo capeta", ?
+"já me deu uma fome", ?
+"ta grandao em molheque", ?
+"nada ver isso", ?
+"e bom mesmo 😋😝", ?
+"o mao cifrada", ?
+"beleza", ?
+"me fernand", ?
+"sangue de jesus tem poder", ?
+"adorei ter tantos  amigos", ?
+"essa mina tem estilo slc '-'", ?
+"sinalzinho do capeta", ?
+"bruno meisels", ?
+"fazendo o sinal da besta ainda/ que jesus perdoe todos.", ?
+"tem algum código promocional ai?", ?
+"caio quero", ?
+"bob's, o sabor é nosso!😋", ?
+"yan ramonlinda linda karolayne", ?
+"juliana mazzei miga arruma esse copo pra mim <3", ?
+"gabriel campos amr eu quero um copo. vamos", ?
+"ja quero mo.  kary alves", ?
+"esse é o meu hambúrguer favorito! ☝👆", ?
+"#cobra", ?
+"#acobra", ?
+"os dois", ?
+"a. .obemb' e  i", ?
+"nunca comi😢", ?
+"queria que fosse de graça 😂,", ?
+"porcaria de suplicy", ?
+"símbolo satânico.", ?
+"vejam ai se é parecido com esse", ?
+"deu ate fome", ?
+"não gosto do bobs nada contra", ?
+"sinbolo satanista", ?
+"partiu garantir os meus", ?
+"esse chifrezin ai..sei nao...🤔", ?
+"wtf????", ?
+"eu sou lindo", ?
+"#burguerkingémelhor", ?
+"hm..", ?
+"kenne rodrigues olha ai pra gente tem a ser uns 9 desses kkkk", ?
+"diego esses copos", ?
+"olha... amor...😂😂😂❤⚘edúù allvess ❤❤❤", ?
+"bruna vamos!!?!", ?
+"nss ir mais rápido possível pra bob´s quero esses copo <3", ?
+"victor alexandre eu quero os copos... os refri vcs toma", ?
+"🤘", ?
+"keven souza quando você percebe vai ser tarde", ?
+"provei,recomendo o melhor mini burgers do mundo", ?
+"\m/", ?
+"só queria que eles fossem estra grande 😂😭", ?
+"lilly walker boraaaa gustavo alcantara", ?
+"rogerio borges de itambacuri", ?
+"que comercial lixo.e esses dedão enfia no seu .......", ?
+"amoooor eder ❤", ?
+"joão marcos vai compraa???/", ?
+"tuma diabólico", ?
+"kkkkkk da hora...", ?
+"já quero vamos comer lisleny queiroz", ?
+"\|m|", ?
+"apache bass olha isso!! tudo oculto kkkkk", ?
+"juliana esse que eu te falei ..", ?
+"alex costa temos que ir no bobs", ?
+"aí meu deus quero todos. vou  comprar. ❤", ?
+"so sinais satânicos,... deus é mais", ?
+"comida lanches ruim", ?
+"e dale chifrada kkkk oculta", ?
+"amei", ?
+"pq não no am?", ?
+"meu pai luiz marques", ?
+"mil graus d energia", ?
+"já ganhei", ?
+"deus e mais", ?
+"isso e delicioso", ?
+"famoso símbolo  dos iluminat", ?
+"gostei", ?
+"cara do pedro", ?
+"boa noiteee", ?
+"uma bosta", ?
+"todos são iluminatis", ?
+"o melhor é só no bob's", ?
+"satanismo", ?
+"quanto custa", ?
+"olha o simbolo do capeta", ?
+"satanismo", ?
+"jorge lucas vamos comer esses três", ?
+"cristiane tavares agora eu vi kkkkkkkkkk", ?
+"bob's brasil qual o nome dessa musica?", ?
+"na dúvida levo os três! ótimo lançamento 😍 jefferson pimentel", ?
+"amém", ?
+"steven brown we go to bob's in my city", ?
+"vamos goreth carvalho e leila rosário", ?
+"top", ?
+"joão flávio zara tenho certeza que vai querer 😂", ?
+"😂😂😂", ?
+"juan sullivan sua cara esse vt", ?
+"🤘", ?
+"essa ana maria braga, sempre surpreendente!", ?
+"isabela limajaciene medeiros vamos", ?
+"..", ?
+"paula santos essa daí q falei q vai trocar", ?
+"quería  ummmmmmmmmmm", ?
+"xoxo", ?
+"xoxo", ?
+"jorge torres wellington fabio augusto", ?
+"eliene tavares quando eu for ai me bora lá?", ?
+"lega", ?
+"#cat", ?
+"#cat", ?
+"🤘💀🤘", ?
+"o blaine vai dominar o mundo ana luiza gutierrez", ?
+"kkkkkkkll", ?
+"tock", ?
+"tu aguenta esse trio eduardo silva ?!", ?
+"leonardo buski secchi kkkkkkkkk melhor comercial pra amburguer", ?
+"comercial do ivan neto ramos ii", ?
+"lucas serra amoooor quero mt", ?
+"alice rosas era do bob's 😅", ?
+"antonio ró quen holl", ?
+"andré barbosa essa e a propaganda que comentei com vc", ?
+"show", ?
+"🤘", ?
+"da um zói nisso kkkkkkkk mateus william", ?
+"xoxo", ?
+"mariana roberto quero um 🍔🍔🍔🍔🍔🍔🍔🍔🍔", ?
+"joão pedro kaem aaaaa o bobs tbm 💙", ?
+"fanny ferreira quer ir comigo???", ?
+"pollyana moreira quero ir pr ganhar um copo", ?
+"#rãn", ?
+"camilla martinez vamos experimentar ?", ?
+"andy batera mor olhe isso kkkkkkk", ?
+"msnd", ?
+"kkkkk", ?
+"olhaa mini!! \m/!!!  😍😍😅😅!! paolo osorio", ?
+"👎", ?
+"rafael ximenes aaaaaaa quero todos esses copooos", ?
+"xoxo", ?
+"h", ?
+"ja quero montar minha nova coleção ne amor jaciano tavares", ?
+"ummmm", ?
+"top", ?
+"xoxo", ?
+"bora lucas brasil quero esse copo", ?
+"#ran", ?
+".", ?
+"jean carlos vanderlinde nós  precisamos  ir no bob's", ?
+"oh o tamanho aí leila santos", ?
+"jade vamo", ?
+"xoxo", ?
+"xoxo", ?
+".", ?
+"kkkkk", ?
+"márcia gomes temos q compra", ?
+"junior sousa vamosss pega esses coposss", ?
+"william gomes vamo pelo copo de novo kkkkkk", ?
+"#ran", ?
+"ana carolina collins michel augusto eu maquei os 2 ai tentem se conectar", ?
+"mostra a harrison mãe corrinha lino", ?
+"jo", ?
+"bom", ?
+"\m/", ?
+"kkkkk", ?
+"evandro filho sarah gama yolly ribeiro", ?
+"up", ?
+"vcmo", ?
+"aline brandão 😍", ?
+"🔝 kkkkk", ?
+"xoxo", ?
+"campanha satânica? kkkkkkkkkkkkkkkkkk", ?
+"marcelo santos olha isso véi 😍❤", ?
+"\m/", ?
+"🖕", ?
+"🤘", ?
+"alexandre alves vou amassar 800 mini desse", ?
+"top", ?
+"🤘🏼", ?
+"kk", ?
+"vitor neves go semana que vem", ?
+"nathy santos esse sim é bom!!!", ?
+"kk", ?
+"barbara lucas se for assim sim", ?
+"fofa", ?
+"👍", ?
+"bj😁", ?
+"eu", ?
+"u", ?
+"otavio estevam como trinta e olha la", ?
+"larissa layane me leva no bob's", ?
+"andreza nascimento vamos experimentar esse ?", ?
+"aí amor rsrs diana carla", ?
+"kkkkk", ?
+"😀", ?
+"vilson neto patryck ossuna abby ramires daniel cavalcante ai", ?
+"xoxo", ?
+"oi", ?
+"#ran", ?
+"😇", ?
+"ni marques, hoje tem?", ?
+"gabriela vasconcelos era no bob's. olha aí.", ?
+"jade dutra lopes bora men?", ?
+"", ?
+"", ?
+"#run", ?
+"kkk", ?
+"", ?
+"", ?
+"rodrigues aaa quero", ?
+"bruno zafalon gustavo campos", ?
+"adam ribeiro eu quero <3", ?
+"quero o copo naísa neta", ?
+"juliana lisbôa querooo 📢📢📢📢📢🎶", ?
+"julliana iris boraaaaaaaaaa", ?
+"isabela werneck já quero!!! vamos???", ?
+"angelica maciel 😍😍😍😍 ja querooo", ?
+"jair junior partiu ???", ?
+"gabriela mello o que eu te falei", ?
+"por favor bob's brasil voltem com o combo  de batata frita, milkshake  e um hamburguer  de cheddar. era perfeito  pra mim! 😍😍", ?
+"esses q falei amor eduardo scaldaferri", ?
+"link park", ?
+"wagner henrique. eu querooooo.", ?
+"bryan nunes socorooooo", ?
+"aline brandão que lindaaaa", ?
+"scharlene franciele o próximo eu pago", ?
+"", ?
+"", ?
+"carla kkkk", ?
+"larissa amaro mariza soares", ?
+"fernanda ortega aahh vamos ❤️", ?
+"", ?
+"", ?
+"", ?
+"lucas lopes bruno lopes", ?
+"vianca guely quero o copo😁", ?
+"tamires tavares olha só isso 😱", ?
+"bruna baptistelli nós hj kkkkkkkk", ?
+"edja oliveira kkkkkkkkkk", ?
+"luciana trindade", ?
+"diego rodrigues", ?
+"lolo", ?
+"bruna", ?
+"ana wolff vamoooo", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"", ?
+"tirza rosa", ?
+"amor eu quero kamilla teixeira", ?
+"rita", ?
+"danilo alimo", ?
+"luana cristina", ?
+"meu deus e tanta delicia que não da pra ressiste😋😋😋😋👅👅🍔🍔🍔🍔🍔🍔🍦🍦🍦🍨🍧", ?
+"ingridy soares", ?
+"tiago", ?
+"qm é cego espiritual nao consegui destinguir esse símbolo e essa propaganda", ?
+"luiz otávio", ?
+"izabelle barbosa", ?
+"ricardo ferraz", ?
+"jessica gomes", ?
+"adorei delicia mas seria legal uma promoçao compre 5 leve 1 .---. gostoso de mais kkk", ?
+"miga eu quero camila coutiinho", ?
+"meus parabéns kevia que deus te abençoe", ?
+"foi só eu ou maos auguem viu o felipe neto divugar o novo bob's n9 vidio dele de eu já eu nunca com aquele roqueiro", ?
+"thays paula", ?
+"símbolo satanista corre solto,  e parece normal né?", ?
+"ana vitória lopes", ?
+"carine immig", ?
+"alessandra bennert lembra que te falei", ?
+"rodrigo alves", ?
+"laura savoini", ?
+"guilherme moura", ?
+"gyrlane", ?
+"victor gonçalves", ?
+"estou com dificuldade em validar minha promoção do rir, por informação errada não posso ser prejudicado né bob's?", ?
+"arthur martins de pádua seu sanduíche aí oh 🤘🤘", ?
+"esses simbolos ae é satânico sabia muitas pessoas fazem esso sem  saber", ?
+"luiz fernando  eu quero", ?
+"simbolo diabólico. mão chifrada .usado por satanistas", ?
+"esses dedinho sempre na midia simbolo satanico.", ?
+"tirando o símbolo do demonho ficou bom", ?
+"po mo carao 25 conto rock in trio quem compra e otru", ?
+"o diabo engana as pessoas com propagandas.", ?
+"esse sìmbolo com a mao parece coisa satânica.", ?
+"massa só por causa da propaganda vou comprar🤘😝", ?
+"símbolo diabólico. com certeza mas um pacto com tataco..", ?
+"porque dois finais diferentes no comercial foi proposital ?", ?
+"esses lanxe e oferecido ão capeta", ?
+"carai que sacada desse publicitario", ?
+"gabriel pacheco é esse filho??", ?
+"andre moura", ?
+"realmente muito besta", ?
+"quantos que ta isso?", ?
+"muito pequeno e caroooooo.", ?
+"luana di giacomo, mais copos", ?
+"deus tenha misericórdia", ?
+"pois já tá chato essa propaganda", ?
+"top kim eliakim oliveira show olha sarah f. marques", ?
+"satanismo puro kkkkk", ?
+"adoooooooro! kkk", ?
+"thevillano.com", ?
+"3 mini burgers no preço de um inteiro", ?
+"a mão chifrada cibolo do demo", ?
+"passa na frente senhor", ?
+"simbolo satânico  , mão chifrada", ?
+"parabéns", ?
+"clica parabéns", ?
+"simbolo satanico", ?
+"propaganda lixo", ?
+"eles fazem o símbolo do satanás", ?
+"sinal satânico 🤘", ?
+"bob 😋😋😋😋", ?
+"#joaninha", ?
+"pacto renovado", ?
+"year rock rooooollll", ?
+"legal", ?
+"#joaninha", ?
+"#cobra", ?
+"vcgw", ?
+"xdfd", ?
+"simbolo satanico ,mao chifrada .", ?
+"da linda gata", ?
+"adorei os sinais satanicos", ?
+"propaganda satânica!", ?
+"ritual 🤔", ?
+"ele é um cocielinho", ?
+"mao chifrada para disso", ?
+"faz o sinalzinho da amizade", ?
+"comprovado bob's é illuminati 😂😂😂", ?
+"eu quero isso", ?
+"sinais de mão estranho", ?
+"todos saudando a satanás", ?
+"obrigado", ?
+"esse símbolo estragou tudo🤔", ?
+"que delícia!!! ☺☺☺", ?
+"ke bedyes foto linda kmr", ?
+"rudolf queru", ?
+"robson toshio mais um copo", ?
+"julia 💙❤️", ?
+"ana luiza oliveira", ?
+"fernanda ramos", ?
+"jonas freitas kkkkkkkk", ?
+"jesus oliveira rego eu quero.....", ?
+"igual leandro lynho...", ?
+"kkkk yasmim de pelegrin,  nágila gomes", ?
+"alceu lapastina", ?
+"maximiliano bora!", ?
+"livian leonel olá olá olá", ?
+"maira ribeiro já quero", ?
+"karoline wolff oi vamo?", ?
+"0", ?
+"simone moura kkkkkkkkj", ?
+"o copo aline maria", ?
+"antonio junior camila pottherhead santos vms comprar?", ?
+"sandy 😍😍", ?
+"ariane santana hahahahaha", ?
+"o ѕó grasiela", ?
+"allan ^^", ?
+"fernando araújo @burgatorio", ?
+"kamilla garcia já tem no bobs daqui?", ?
+"saviola corrêa haha ❤️", ?
+"olhaaaa micaias castro", ?
+"thiago lucianoolha só", ?
+"amém", ?
+"swow", ?
+"amém", ?
+"q", ?
+"xoxo", ?
+"v", ?
+"#rân", ?
+"help", ?
+"\m/", ?
+"8", ?
+"😎🤘", ?
+"kkk", ?
+"arielson amorim, eu quero!", ?
+"cristiano kkkk", ?
+"vítor emanuel carvalho vamos comer", ?
+"flávia maia bora?", ?
+"anne cristinakkkkkkk", ?
+"celine santana oia...", ?
+"david bocão quero", ?
+"carolina anjos vamos?", ?
+"joyce kerolayne olha aí", ?
+"alcemir lamb bora?", ?
+"antonia uckermann oia feia", ?
+"querooooo marcos vinícius", ?
+"maarciioh furllann caraleoo", ?
+"quero milena silva", ?
+"roberta emy sato maziviero necessito 😍", ?
+"eita amor! guilherme alencar filho", ?
+"tá vendo bruna karoliny", ?
+"solange de assis kkkkkk", ?
+"", ?
+"renato dalcanalle hahaha", ?
+"karina valente mds mds", ?
+"bora synara azevedo?", ?
+"elias alves gomes eu quero", ?
+"luciana ribeiro vamo?", ?
+"andreza melloni quero", ?
+"carla liandra bora", ?
+"simbolo do capiroto", ?
+"isaque marthins kkkkk", ?
+"janio oliveira que ro", ?
+"vamooos jackson rodrigo", ?
+"yuri lucas e eduardo alves kkkkkkk", ?
+"natacha melo oia", ?
+"jennifer alves opaa", ?
+"diego henrique kkkk", ?
+"robson melo olha", ?
+"italo lima =3", ?
+"daniela lóris vinicius 😱", ?
+"michel angelo cessi. wagner rocha.  marcelo la rosa kkkkk", ?
+"jaque martins 😱😱😱", ?
+"luiz otavio lima 😍😍😍😍", ?
+"lucas ferreira kkk", ?
+"lorraine sousa", ?
+"augusto césar dm ai oh", ?
+"aylla mayara😍🍔🍟", ?
+"lidiane silva eita", ?
+"calil sato dessana casas ivan santos ricardo lael khalil victor felipe esdras sá", ?
+"rodrigo montenegro ana montenegro temos que ir ao bob's 🙆", ?
+"gerson perez kk", ?
+"magno guimarães torres kkkk", ?
+"\m/ bila albuquerque", ?
+"natália karine ^^", ?
+"diego sonne 😍", ?
+"jean freitas 😌", ?
+"eduardo caroline ismael", ?
+"olha mayara camargo", ?
+"tay silva :)", ?
+"karine maida santos rodrigues ayrom urbaniski joão arthur urbaniski", ?
+"lariane araujo arnaldo filho", ?
+"antonio carlos souza,gabriel toscano carvalho.kkkkk", ?
+"bruna oliveira thais forcino", ?
+"jennifer vargas 😂", ?
+"kkkkkkkkkk", ?
+"letícia castro 😱", ?
+"queeeeeeee???????????????????  pqp", ?
+"joana d'arc cassiano felipe", ?
+"🤔🤔🤔🤔", ?
+"renata de carvalho gogo", ?
+"marina granelli 😝", ?
+"🤘🤘🤘🤘", ?
+"emanuelle araujo joyce lima oia", ?
+"raony teixeira...", ?
+"henrique rodrigues kkk", ?
+"joyce machado débora nunes sarah luisa bastos", ?
+"caio franco matos 🤘", ?
+"kkkkkkk", ?
+"quero aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa <3", ?
+"marcos vinicius jonatha soares estella kunz rodrigues veloso", ?
+"kkkkk", ?
+"aaaaaaaaaaaaaaaaaaaaaaaaaahhh", ?
+"daiane rampinelli 😀😁", ?
+"🤘🤘🤘🤘🤘🤘🤘🤘❤", ?
+"euuuuuuuuuuuuuuuu quero", ?
+"ai sandra dionisio fica a dica pra levar eu e ana caroline heim...", ?
+"daniel costa junio sergio", ?
+"haaaaaaaa", ?
+"marcus baldin🤘🏼", ?
+"alessandro nascimento", ?
+"joanderson ferreira kinho henrique", ?
+"carlos eduardo", ?
+"aline brandão", ?
+"vinícius caricatte", ?
+"gabriela eloisa", ?
+"felipe araújo", ?
+"woooooooooow", ?
+"rafaela", ?
+"kaká medeiros", ?
+"beatriz medeiros", ?
+"victor ribeiro", ?
+"karen swan", ?
+"ana lidia vieira", ?
+"edjane brito", ?
+"leia ribeiro carvalho", ?
+"vanessa neves", ?
+"ääh ťääĺ ďä äřĺëqüïńä", ?
+"steven guedes", ?
+"daniela", ?
+"👏🏻👏🏻👏🏻👏🏻👏🏻", ?
+"fausto peçanha", ?
+"janaína silva", ?
+"luana veiga languer", ?
+"hyago amorim", ?
+"ivna barreto", ?
+"vitoria bícego", ?
+"marcos", ?
+"alice orfanó", ?
+"naime ajjar", ?
+"lucas monteiro", ?
+"rhyan fischer", ?
+"eduardo silva", ?
+"aline thaisa", ?
+"ana julia garroni", ?
+"wilber lacerda de jesus", ?
+"lucas soares", ?
+"david alves alemão", ?
+"marcus vinicius", ?
+"phillipe leroy", ?
+"renan bernardo", ?
+"monique praça", ?
+"jéssica oliveira", ?
+"felipe silva", ?
+"lucas xavier", ?
+"tulio davila", ?
+"heverton pedro", ?
+"phelipe melo", ?
+"leandro granai", ?
+"emily marinho", ?
+"éricka soares", ?
+"ramon cristian", ?
+"samira almeida", ?
+"juliana calazans", ?
+"cássia noronha", ?
+"rofferson lemos", ?
+"karyanne barros", ?
+"igor oliveira", ?
+"monique carvalho", ?
+"leonardo luiz", ?
+"carolina gonçalves", ?
+"marcelo araújo", ?
+"douglas rocha", ?
+"edisley ketleyn", ?
+"tayná janayra", ?
+"jéssica starck", ?
+"lorrane santana", ?
+"marina menghini", ?
+"thiago santoserick silva", ?
+"alex wilson", ?
+"silvana cristiane silva", ?
+"aline renata", ?
+"tamires guedes", ?
+"gabriel giotti", ?
+"gabrielle moreira", ?
+"rafaiele peixoto", ?
+"kkkkkkkkkkkkk", ?
+"kkkkkkk", ?
+"luciana victorino", ?
+"marcus felipe", ?
+"jamili visoná", ?
+"carol silva", ?
+"beatriz dezerto", ?
+"janaina andrade", ?
+"raphaela amábile lacerda", ?
+"lucas segato", ?
+"brayan sullyvan", ?
+"daniel ferreira", ?
+"thiago lucas", ?
+"daiane oliveira", ?
+"gente curtem meu vídeo lá na página do tucuruí folia. me ajudem a conhecer o léo santana no camarim 😍👏", ?
+"vou comprar só por causa do supla", ?
+"http://prtnsrc.com/pn57", ?
+"viviane laskos", ?
+"natécia marques tu sabe o que significa esse símbolo que eles estão fazendo com a mão 😢😢😢", ?
+"luciana rocha", ?
+"raphael de moraes", ?
+"kênia lopes", ?
+"gleyson santos", ?
+"simbolo satânico, gosto da bob´s 🍔🍟🍦🍨, mais não gostei do comercial! #misericordia", ?
+"gerusa fernandesgisele fernandesme leva tbm ?  esse é mais legal !", ?
+"sandra silva", ?
+"mateeus riicardo", ?
+"beatriz teixeira", ?
+"vitor matias", ?
+"alex cole", ?
+"junior louésther tavares", ?
+"natalie bastos", ?
+"renata alv ii", ?
+"júlia motta", ?
+"may zurra", ?
+"rodi kaiser fernando kruguer", ?
+"carlos", ?
+"lucas gabriel ,pedro henrique , vamos comprar o nosso ?", ?
+"maria antunes borá mó?", ?
+"pedro arlen rafaela ferro caldas quero esses copos", ?
+"letícia santos", ?
+"alan nascimento", ?
+"vitória libòrio", ?
+"raissa cabral", ?
+"leonardo barros", ?
+"allysson brito", ?
+"quero mostrar minha indgnação com o bobs do itajai shoping   comprei o franlittos com 12 unidades e veio cobrado um molho  que vinha gratuito,depois na hora de retirar  pedi o copinho pra retirar o molho  e pra minha surpresa não tem copinho  resultado vc paga o molho  porque o fran littos vc e obrigado a pagar o molho mesmo sem levar e ainda não recebe o molho  uma vergonha !!!!!", ?
+"salve  satanas   depois  que isso  apareceu na  comecial  vou         ate come!^^", ?
+"renata matulevicius", ?
+"liriel prado", ?
+"marcelo junior", ?
+"joyce araújo escolhe um copo.", ?
+"olha amor , já quero bruno magalhães", ?
+"dener cardoso cleiton ferraz vocês já viram? :p", ?
+"gostaria de saber o preço! gabriela d'oliveira", ?
+"kkkkkkkkk", ?
+"é do rock precisamos marcio roberto brüske kkkk", ?
+"eu quero .. lana paula", ?
+"amor vamos no bob's!! preciso continuar minha coleção de copos", ?
+"rodolfo monteblanco benitez eu quero eu quero eu querooo!", ?
+"juliana carvalho e fernanda cazeli partiu bob's kkk", ?
+"eduarda sosnowski quero os coposssss", ?
+"amanhã nós vamos luna rodrigues", ?
+"werlem araujo freitas melhor comercial", ?
+"olha aí amor jessé júnior", ?
+"esse eu falei ketlyn deitos", ?
+"alê dias kkkkkkkk", ?
+"felipe bora?", ?
+"aí mano vamos junior nobrega", ?
+"aí leide daiane pereira dos santos santos eu quero um copo não esqueci", ?
+"lucas pereira eu ouvi copo??", ?
+"eeeeguaaaa fabricio correa *0*", ?
+"ariane, ed, rosane, lucas, cintia", ?
+"diego morais amanha hem", ?
+"meu deus e tanta delicia que não da pra ressiste😋😋😋😋👅👅🍔🍔🍔🍔🍔🍔🍦🍦🍦🍨 🍧", ?
+"meu deus e tanta delicia que não da pra ressiste😋😋😋😋👅👅🍔🍔🍔🍔🍔🍔🍦🍦🍦🍨 🍧", ?
+"gabriela rocha nico nico nii kkkkk", ?
+"priscila souza diogo cunha thiago w. a. souza", ?
+"que deli dnaya txai", ?
+"silvia gonçalves borges olha q legal mãe ! lá no bobs", ?
+"helder corrêa oliva compra pra mim 🙏", ?
+"gilian fernandes vitoreti teu favorito ali kkkkkk", ?
+"gabi pereira vamos no bob's?", ?
+"kika marques eu quero o copo", ?
+"douglas figueira esse eu quero", ?
+"tainara maciel agora vi rs", ?
+"isa coninck ... kkkkkkkk...", ?
+"amor holea renata ardenshi🤘🤘🤘❤❤❤❤😗", ?
+"eu quero guilherme magri  😍😍", ?
+"olha karolleydhe oton tua cara", ?
+"jose gustavo kinder vai querer os copos amor?!", ?
+"que legal thiago jacqueline coelho é 3 lanchinho kkkkk", ?
+"rafael da silva u.u precisoo", ?
+"jess blezer quero os copos", ?
+"daii mafra eu quero 😏😂😂", ?
+"ricardo villa dantas disso que eu tava falando", ?
+"nathan 😂❤", ?
+"gleisson aparecido eu quero os copos!!!!", ?
+"<3", ?
+"❤❤", ?
+"victor morato unp tá chegando", ?
+"olha aí anderson calasso silva a galera da irmandade", ?
+"nosso comercial aí bruno souza, henrique quirque giovane maia douglas iuri, tássia e helton daniel bragança🤘", ?
+"ronaldo riios... mow, vamos?🙈❤", ?
+"gean oliveira eu queroo aaaaa", ?
+"yuri augusto qro os copossss", ?
+"rodrigues qro o copo", ?
+"melhor lanche hahah phelippe maciel", ?
+"laryssa gomes vamos agoraaaaaa", ?
+"jefferson carlos hoooo *o*", ?
+"hugo alves de sousa", ?
+"julia fabrim olha q dahora", ?
+"olha o tamaninho jorge rb alves", ?
+"mizael lima olha q dahora", ?
+"pâmela oliveira precisamos kk <3", ?
+"partiu caio benemann comer", ?
+"quero ir comer! vanessa meira daiany santana naira abdon", ?
+"vamos pro  burger king brasil mïih amorim kkkkkk?", ?
+"saulo cavalcanti... quero!", ?
+"eduardo felipe, teu comercial", ?
+"eveline pinheiro borá????😍", ?
+"danillo, quero", ?
+"diego melo quero", ?
+"ramonna haag marina ceconi leone moreira fernanda roncon", ?
+"prefiro comprar uma meiota lucas rosa valadão pedro paulo narduchi", ?
+"hummmm, vamos eduardo meireles ?", ?
+"paula ventura vai anotando", ?
+"a italia é o mundo.da arte.,do.belo!", ?
+"umbora papito lauren ribeiro", ?
+"crisssalatiel euller silva", ?
+"daisemar massini!! quero😬", ?
+"olha jhon salles😍😍😍😍😍", ?
+"mor eu quero bruna gimenez", ?
+"renata souza olha aí tia", ?
+"paulo eduardo conti lucas melo igor jun arai vinicius santiago conti gabrielly kopeska gabriela romangnoli corrêa adrielly custódio", ?
+"rigerles abreu quero copo😔💕", ?
+"já quero adriano pimentel", ?
+"amor quero muito moises grisante", ?
+"manoel rolla quero", ?
+"luís pires. queroooo", ?
+"lohana pompelli scapatici os comentários kkkkkkkk", ?
+"amanhã amor aline ribeiro", ?
+"olha isso marinara batista mylaa alves geissi coutinho jéssica medeiros diego ribeiro olha isso", ?
+"guilherme vitor quero meu copo", ?
+"guilherme guillherme leonardo", ?
+"aii, nathaly", ?
+"fabio coelho quero", ?
+"paula rodrigues quero!", ?
+"eliane leite olha isso", ?
+"mo jhonatan souza 😍😍😍", ?
+"bora leandro silva?", ?
+"dicas para curtir o rock in rio? aqui tem! https://youtu.be/_hflw86oroa", ?
+"edjan saldanha bora comer?", ?
+"natasha rosa necessito!", ?
+"val lima jo jô miranda silvania martins", ?
+"gê ribeiro e rafael ribeiro mas uma coleção", ?
+"pauliana rocha e o fimmmm", ?
+"douglas brisola da costa por favor ♡", ?
+"adriana lobato já tá tendo", ?
+"joabe caetano ahshsyhs", ?
+"fagner jeiziani jéssica felipe", ?
+"felipe patricio partiu? kkk", ?
+"monique brito olha isso", ?
+"tatiana pacheco olhaaaa aí", ?
+"fabiano canobre e marisa canobre quero ja", ?
+"meu deus e tanta delicia que não da pra ressiste😋😋😋😋👅👅🍔🍔🍔🍔🍔🍔🍦🍦🍦🍨🍧", ?
+"rafael henrique to nervosa", ?
+"cleide bochorny eu quero", ?
+"eu quero sanches júnior.", ?
+"victor silva karol oliveira du qero", ?
+"lucas fonteles socorro 🙄", ?
+"camilla kkk", ?
+"sabrina santos quero :(", ?
+"rafaela domenici arfinengo rafael neves laura de sá agatha matias helder eidi hariki", ?
+"simone passos sônia belo de passos morais vitória passos layarah passos", ?
+"hellena leite giullia costa tavares já sabe né", ?
+"vamooooooos mãe danielli barbosa xavier", ?
+"oh janah moraes kkkk", ?
+"ana gabriela vianna moura preciso", ?
+"olha amor helena castro", ?
+"quero bryan felipe thomaz", ?
+"beatriz milena olha amor", ?
+"eu quero cleia meneghelli", ?
+"allan sullivan quero!", ?
+"nivia farias, amanda neves quer esse né?", ?
+"augusto carlos sparremberger já vai lá comprar", ?
+"leo souza leo pivatto", ?
+"yago sant'anna carolina nunes", ?
+"meu lanche marissa garcino giovanna stival wilson leite junior evelyn souza", ?
+"maitê ketlen 😂", ?
+"jonas😂😂😂", ?
+"queroooo vitor bianchetti", ?
+"victor hugo souza piva roqui rou", ?
+"rodrigo martins 😱😍😍", ?
+"olha aí gnt heron freire luana santana", ?
+"july barbosa quero", ?
+"lucas vasconcelos rebeca bittencourt", ?
+"renato junior...", ?
+"caroline aaronian eu quero", ?
+"wyllian alves rafael caetano quero", ?
+"michel rodrigues tokarski olha que genial a propaganda", ?
+"cariny figueiredo pepe rodrigues propaganda ó 👌", ?
+"ana cristina quero um copo", ?
+"sandra cristina wudkeosmar koepp koepp", ?
+"carol matheus willian marcos fernando", ?
+"aahh ana beatriz", ?
+"herbert quesada cerdan querooooo 😍", ?
+"vitória villar camila raynara iasmiin rodriguees quezia allen", ?
+"gabriel martins kines rip bobs", ?
+"sandrine mertins hahaha", ?
+"victor santos gustavo morais kkk", ?
+"henrrique molina boraaaa", ?
+"carolina buzatt segatel o maee :3", ?
+"naty maito....", ?
+"thiago phellipe me leva", ?
+"gustavo monteiro queroo", ?
+"guilherme vasconcelos já sabe!", ?
+"george souza  nando bfmv", ?
+"jéssica torres salvs", ?
+"juliana barbosa quero", ?
+"marcela rodrigues😱❤", ?
+"carlos antônio silveira querooo", ?
+"paulo gustavo ingrid jessica silva ingriidh siilvah", ?
+"flávio soares de araújo😙😍", ?
+"lys aeon", ?
+"alexsander camacho quero", ?
+"cleiciane ferreira  tgzim barbosa jhaianne reis olha 😝😝", ?
+"fabio hiroshigue", ?
+"hevillys hevin kkkkk", ?
+"jociel 😋", ?
+"lívia lourenço que", ?
+"guilhermina leal", ?
+"gabriel duarte!", ?
+"andressa stankovic aninha xan billy br br ??", ?
+"milena trindade", ?
+"bruna camillo", ?
+"ritcheli lima", ?
+"sara rodrigues olha", ?
+"felipe bruno", ?
+"lucas moura", ?
+"gisele almeida", ?
+"henrique carvalho", ?
+"marcos santiago", ?
+"vanessa santos", ?
+"karina guisini", ?
+"graziella martins de oliveira", ?
+"neuza nauffal", ?
+"ediliane pretto 😂😂😂", ?
+"maria carolina rotondo", ?
+"gabriel cairo adriana cardoso", ?
+"sérgio gabriel de carvalho", ?
+"paulinho biazi", ?
+"cristiane silva", ?
+"daniel", ?
+"vera carvalho", ?
+"jussara mafezolli mds", ?
+"patricia arruda", ?
+"arthur abatti schüler", ?
+"thaiis borgo", ?
+"leticia hermann", ?
+"tais ribeiro cardoso", ?
+"rômulo caulo barboza", ?
+"júlia", ?
+"wellington lins", ?
+"josiane maria colla", ?
+"cyndi araújo", ?
+"pablo josé freitas de souza", ?
+"renan caldas", ?
+"andrey leão", ?
+"bruna godoy", ?
+"dayse vieira", ?
+"diogo frusciante", ?
+"joseph lacerda", ?
+"tiago ribeiro 😂😂😂", ?
+"lucas gaio", ?
+"thalyta costa", ?
+"nyck mattos", ?
+"ádiva braz", ?
+"matheus antônio", ?
+"evelyn caroline", ?
+"fabio mafra", ?
+"ana cristina", ?
+"mariana", ?
+"paulo werner", ?
+"ana paula de assunção dos reis", ?
+"emile raiane", ?
+"júh sousa 🤘🤘🤘🤘🤘😂😂😂😂", ?
+"william neto", ?
+"danilo bezerra", ?
+"tiago aragão", ?
+"leigival oliveira olha isso kk", ?
+"francielly cristina", ?
+"ana paula faria", ?
+"iarley n. leite elieder santos", ?
+"izabela lorena", ?
+"thiago mekhael", ?
+"marcus vinícius", ?
+"priscila dos santos", ?
+"silas cirilo", ?
+"túlio nobre", ?
+"enzo domingues", ?
+"fernando dos santos silva vamos?", ?
+"thatiana mazepa", ?
+"ludmilla santos", ?
+"max oliveira", ?
+"laís marques", ?
+"carla almeida", ?
+"bianca bastos", ?
+"jessica romanini", ?
+"weller kist 😂😂", ?
+"jaque gonçalves", ?
+"marcelo pizani", ?
+"rayssa barbosa", ?
+"bernardo portinho", ?
+"wellington da conceição", ?
+"helder filipe", ?
+"raquel alencar", ?
+"wallace", ?
+"amanda taynara ❤️", ?
+"úrsula cunha", ?
+"fernando barros", ?
+"juliana motta", ?
+"suzy siri cascudo", ?
+"diogo", ?
+"kamila rodrigues", ?
+"rodrigo chaves", ?
+"letícia kleinibing", ?
+"elielton teixeira", ?
+"joão vitor totti penatti", ?
+"drêe araújo", ?
+"beatriz macedo", ?
+"vinicius frança", ?
+"diego soares", ?
+"brunno mercês", ?
+"eduarda magalhães", ?
+"kassio costa", ?
+"yuri", ?
+"diego", ?
+"caiala gomes", ?
+"paulo vieira", ?
+"wagner paiva", ?
+"erlisson jackson", ?
+"thâmis trennepohl", ?
+"marcella costa", ?
+"rosana ramos", ?
+"anne gabrielly e thayná figueiredo", ?
+"raphaela oliveira", ?
+"cristiano frederico corrêa de souza", ?
+"jorge sant ana moreira", ?
+"juliana gomes de lima", ?
+"mariana de souza", ?
+"lili olem cb", ?
+"mara pereira", ?
+"larissa prates", ?
+"guilherme felipe", ?
+"philipe", ?
+"wester rocha", ?
+"richard barbosa pmo", ?
+"pasqual rosso neto", ?
+"velton santos kkkkkkkk", ?
+"camila", ?
+"juliana lourenço", ?
+"keslany souza", ?
+"ivon sampaio", ?
+"isabela almeida 😃", ?
+"bruno alves 😍", ?
+"thaina lima :)", ?
+"thays araujo..", ?
+"adriano de macedo silva", ?
+"daniel lobão", ?
+"fernando capynn", ?
+"alberthy tainã", ?
+"anne caroline rocha", ?
+"ariane almeida", ?
+"ana", ?
+"fabiana knupp", ?
+"sanderson santos", ?
+"hallyson soares", ?
+"maicon lucaas huuuuum", ?
+"jhey oliver, jhey oliver", ?
+"flavio armanini santos❤❤❤", ?
+"fleubtes queiroz eu quero", ?
+"fernanda rocha", ?
+"josynha bernardes, geremias batista, taciana maria silva lima", ?
+"ricardo crapanzani frança", ?
+"wellington moreira", ?
+"joão kleber lima", ?
+"higor santos", ?
+"samilly martiniano 😁", ?
+"luiz gabrielly fotógrafa", ?
+"thiago lopez troll", ?
+"eles dao mais exclusividade para o sinal do que para o produto é o fim dos tempos mesmo gente burra sinal satanico te enfluencia vamos nos apegar mais em cristo e só ve o significado desses dois dedos em forma de chifre . acorda povo .", ?
+"aline silva", ?
+"roberto rodrigues", ?
+"carolina rariele", ?
+"fabio abreu", ?
+"mariana brando", ?
+"william gomes", ?
+"https://m.facebook.com/story.php?story_fbid=250838272099485&id=100015199411525", ?
+"andré sassim victor salgado", ?
+"verônica rezende", ?
+"daniel barbosa", ?
+"alliison allves", ?
+"luana entringer", ?
+"hauahauahauaghauahuahauahauahua tô chorando com esses comentários 😂😂😂😈😈😈😈🤘🤘🤘🤘🤘marcella sosinho", ?
+"thais dias", ?
+"david", ?
+"valeska bonfim cristina souza", ?
+"romisson castro", ?
+"auriceia nascimento", ?
+"daniel melo", ?
+"bruno silva", ?
+"claudia gomes de oliveira", ?
+"deivid soares", ?
+"https://www.youtube.com/channel/ucold0_exbyd4xwykxpqgjiq", ?
+"iane ferreiravictor taylor", ?
+"carlos antônio silveira", ?
+"cassio janning", ?
+"gabriela penalber", ?
+"dalysson ferreira", ?
+"wellany daniely", ?
+"jaka jakare", ?
+"deivid souza", ?
+"jonathan pércopa", ?
+"higor ganassin", ?
+"hugo ferreira", ?
+"giuliana mendonça", ?
+"evaldo", ?
+"valéria", ?
+"lauren ribeiro", ?
+"nathan felipe nery", ?
+"bianca kuttert", ?
+"eduardo marcelyno dá silva", ?
+"renata françolin", ?
+"dinha hsp", ?
+"cássio esterque", ?
+"felipe", ?
+"magal marques silva", ?
+"ramon borba", ?
+"marcos carvalho", ?
+"darline carvalho", ?
+"lohanna aguiar", ?
+"juan barão", ?
+"felipe matheus", ?
+"alessandra emídia eder costa", ?
+"elliando dias", ?
+"passando aq pra fala que o rock e lixo 😉😌😌", ?
+"sidney banga", ?
+"jhonattan luz", ?
+"phillipe", ?
+"amanda bernardo", ?
+"anna gabriella santana 😍", ?
+"joão pedro", ?
+"girassol", ?
+"gustavo silveira", ?
+"gabriel bugre saitama", ?
+"déa motta", ?
+"giselly souza", ?
+"rebecca colares", ?
+"alan souza de oliveira", ?
+"socorro santos", ?
+"alice rodrigues", ?
+"sandra adriely", ?
+"liliane gloria", ?
+"laylla", ?
+"joão", ?
+"kadú díaz", ?
+"lalá miranda silva almada", ?
+"felipe santos", ?
+"brummel ferreira", ?
+"leda alves iara prieschl", ?
+"wellinton henrique", ?
+"tamirys gabrielle", ?
+"adoradores de satan ta parecendo uma propaganda religiosa tipo mensagem subliminar com o sinal do chifre, entendo isso quem quizer tirar duvidas venham ate a mim eles querem mostra tipo satan em simbolos!", ?
+"igor santos", ?
+"nimsay arievilo weverson santos", ?
+"renan nepomuceno", ?
+"carlos antonio", ?
+"cássio gruber", ?
+"lamirse motta", ?
+"rebeca schettini", ?
+"karla patrícia", ?
+"felipe bueno", ?
+"silvana navarro", ?
+"cássia nunes suzilene mendonça", ?
+"gabriel benatti", ?
+"pablo henrique", ?
+"allan pires", ?
+"daniela freitas", ?
+"joão hipnos dantas", ?
+"gilberto carneiro", ?
+"fillipe xavier alexandre alcelino", ?
+"regina", ?
+"andré lucas", ?
+"priscilla silva", ?
+"raphaela kallfelz", ?
+"isaias magno", ?
+"bruno", ?
+"paulo henrique", ?
+"marcos vinicius", ?
+"sabrina baladelli", ?
+"alessandra lara zuanazzi seidel eduardo lima guimarães", ?
+"marta barros", ?
+"jade ianny", ?
+"maikon silvino", ?
+"clara solano", ?
+"arielly reis cádimo", ?
+"carolina trindade", ?
+"rlima silva", ?
+"camila lago", ?
+"elder silva", ?
+"claudio hikague", ?
+"https://youtu.be/abfzuorbcja", ?
+"rodolfo batista", ?
+"gustavo casas", ?
+"henrique souza", ?
+"meu clipe 😍 assiste aí.  em breve o brasil todo vai conhecer https://youtu.be/abfzuorbcja", ?
+"bruno pamplona", ?
+"leandro cazonatti", ?
+"vinicius moraes", ?
+"marcela marina", ?
+"paulo silva", ?
+"dúnia", ?
+"robson coelho", ?
+"giovanna lyssa", ?
+"daniele schorr fernandes", ?
+"kassandra ribeiro", ?
+"cassio tarantino", ?
+"wal azzolini", ?
+"ana santa cruz", ?
+"isaac domingues", ?
+"rebeca ferreira", ?
+"jessica correa", ?
+"talita gois", ?
+"anna paula", ?
+"danni xavier", ?
+"josé alian", ?
+"lucas guimarães", ?
+"jean varisto", ?
+"rustley pinheiro", ?
+"https://www.youtube.com/watch?v=jpz4nfmx0fs&t=10s", ?
+"bruna jj", ?
+"vanessa witczak", ?
+"antonio silva", ?
+"sayari alves", ?
+"flávio bortoloto marques", ?
+"jean vicente herculano", ?
+"karina régis", ?
+"breno nonato", ?
+"pablo philipe", ?
+"bruna duarte", ?
+"lorran mendes", ?
+"https://youtu.be/wpwsnvyxkjq", ?
+"https://www.youtube.com/watch?v=0yuu3mfskxo", ?
+"vitória rodrigues", ?
+"vitor wesker", ?
+"gabriella adorno", ?
+"allesson victor", ?
+"iago diógenes", ?
+"bárbara araujo", ?
+"luis eduardo", ?
+"eu era viciado em ler comentários, depois passei a ler os comentários dos comentários......perdi casa, carro, mulher e família.hoje estou curado e liberto. eu sou ex leitor de comentários,eu sou a universal!https://youtu.be/zh4gempwnas", ?
+"vanderson borges", ?
+"priscila spegiorin", ?
+"marcos darrieux", ?
+"tamiris santos", ?
+"clélia ferreira", ?
+"maíra guzzo", ?
+"cris larocca", ?
+"vanessa cunha", ?
+"silvana duarte", ?
+"luiz gustavo", ?
+"stella tinoco fabri", ?
+"isabelle rodrigues", ?
+"suelena das graças souza", ?
+"kely lima", ?
+"tommy lee", ?
+"danilo xaxá", ?
+"gabryel fernandes", ?
+"junior cardoso", ?
+"https://chat.whatsapp.com/e2489hhxqnn9qqjo4jt8re", ?
+"gente minha escola ta fazendo uma gincana, e a primeira prova da gincana é de likes, quantos mais likes (curtidas) na foto do minha sala, a minha sala pode ganhar essa prova!! então quem puder por favor entrem nesse link https://m.facebook.com/educandariojardimpiedadepe/photos/a.1331576330292488.1073741843.429143333869130/1331679733615481/?type=3&source=54e curtam a foto do 8° ano!! por favorr sua curtida nos ajudará muito !!!❤❤", ?
+"vitor wesker", ?
+"anna jessyca portinari", ?
+"raison gleudes", ?
+"xico neto", ?
+"thiago martins", ?
+"marjorie holanda", ?
+"douglas seixas", ?
+"alfredo ferreira", ?
+"acessem o link e vejam que história emocionante https://www.vakinha.com.br/vaquinha/forca-filipe", ?
+"siga minha mãos 👇😂💥https://www.youtube.com/channel/uccobwxmzakaidyu-mtt5mcw", ?
+"https://youtu.be/op09uwybm7s se inscreve pfv subscrib", ?
+"suzane freitas", ?
+"vera lucia freitas", ?
+"luciana contreiras", ?
+"joao pedro moraes", ?
+"levi souza", ?
+"eder correia", ?
+"fagner ferreira", ?
+"jonas santana", ?
+"maxciara falcão", ?
+"caetano rezende", ?
+"suzani moraes", ?
+"ramon agacê", ?
+"mônica de macedo", ?
+"miguel votre", ?
+"thalyne figueiredo", ?
+"você está gostaria de sair da escassez financeira e trabalhar em casa apenas usando um computador com acesso a internet trabalhando apenas duas horas por dia e tendo lucros por mês acima de r$ 10.000,00 . tornando-se um empreendedor digital?especialista em vendas ensina através de pdf gratuito em apenas 10 passos como vender todos os dias na internet usando técnica simples e usada pelos grandes empreendedores do marketing digital no eua, mas que no brasil poucas pessoas compartilham..para adquirir o e-book de forma gratuita acesse link abaixo, http://bit.ly/bookgratis10passosnenhum texto alternativo automático disponível.", ?
+"https://www.facebook.com/groups/228242407674804/", ?
+"raisa freire", ?
+"as pessoas são assim, falem qualquer coisa contra o que elas acreditam que elas ficam zangadas , podem falar e questionar as opiniões são dadas e o mundo segue, símbolos satânicos em propaganda como esta é bastante comum, mas a verdade emcomoda e as pessoas ficam irritadas, mas fazer o que ne? kkkkkkk", ?
+"ganhar uma graninha extra sem precisar de nenhum investimento? parece mentira ne mas com o picpay é possível https://chat.whatsapp.com/gzwxoujhpgpd53qwfkgork", ?
+"https://youtu.be/ajw89df2po4", ?
+"https://m.facebook.com/story.php?story_fbid=1461101670579183&id=100000380916383", ?
+"https://youtu.be/vpsy-bbkylq", ?
+"https://www.facebook.com/djluan.oliver.13/videos/869868266487867/", ?
+"bernávio claudino de oliveira regina célia", ?
+"olha roberta helena", ?
+"https://www.youtube.com/watch?v=or0f1yfrbig", ?
+"https://youtu.be/sjtrsqtghie", ?
+"gilso gilcio miranda", ?
+"cristiane janaina", ?
+"wagner douglas", ?
+"ligia", ?
+"kiel galvao", ?
+"flávia da costa", ?
+"luana silva", ?
+"clea barbosa", ?
+"siméia varela", ?
+"brenda karoline", ?
+"andreia diniz nayara augusta nailcy souza leiam os comentários e assistam ao vídeo", ?
+"‪use o uber para ganhar dinheiro dirigindo seu próprio veículo. use o link abaixo para se inscrever: https://partners.uber.com/i/uyyr9fbcue‬", ?
+"pra usuários de picpay  quem tiver interesse de ganhar um dinheiro,é só clicar no link abaixo, tu investe 10 e ganha 80. mais instruções é só clicar no link abaixo.não é golpe funciona mesmo[14/7 17:32] fl@vi@ne 😇: https://chat.whatsapp.com/fl4qnfrid6i3vf2ohnlaa8", ?
+"‪use o uber para ganhar dinheiro dirigindo seu próprio veículo. use o link abaixo para se inscrever: https://partners.uber.com/i/uyyr9fbcue‬", ?
+"muleque piranha😀😀😀", ?
+"victor sousa", ?
+"anna figueiredo", ?
+"moacir salvador", ?
+"lara freire 🤙🏻", ?
+"taylor miranda", ?
+"suka neves", ?
+"jerusa silva", ?
+"matheus machado", ?
+"raiane miranda", ?
+"laina sousa", ?
+"marla freire", ?
+"3qukffxruggfxb. vg", ?
+"https://jornalivre.com/2017/07/17/aberta-consulta-para-extinguir-ipva-assine-a-peticao-tambem/", ?
+"vc que quer uma otima renda extra nao perde mais tepo junta-se a familia honode", ?

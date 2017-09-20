@@ -12,5 +12,6 @@
     <orderEntry type="library" name="cogroo-addon-pt_br" level="project" />
     <orderEntry type="library" name="cogroo-ann-4.0.0" level="project" />
     <orderEntry type="library" name="mongo-java-driver-3.5.0" level="project" />
+    <orderEntry type="library" name="weka-3.6.14" level="project" />
   </component>
 </module>
