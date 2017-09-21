@@ -1,0 +1,16 @@
+@relation comentarios
+@attribute comment string
+@attribute classe {positivo, negativo, neutro}
+@data
+
+"vamos precionar fim privilegio", ?
+"parabens grande senador pessoas povo brasileiro precisa politica", ?
+"você me mata de desgosto", ?
+"sempre você está brigando", ?
+"cada dia voce se comporta pior", ?
+"voce é um mentiroso", ?
+"reparo que cada dia você é melhor", ?
+"creio o que me diz, você fará", ?
+"voce sabe que eu quero o melhor para você", ?
+"voce merece o melhor", ?
+"não esperava menos de você", ?

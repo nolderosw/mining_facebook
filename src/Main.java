@@ -10,9 +10,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-
-
-
 public class Main {
 
     public static void main(String[] args) throws Exception {
@@ -43,7 +40,7 @@ public class Main {
                 MongoDatabase database = mongo.getDatabase("FB_Mining_App");
 
                 //criando base de dados
-                System.out.println("Digite o nome da base de dados (Se o nome ja existir base será reescrita)");
+                System.out.println("Digite o nome da base de dados (Se o nome ja existir a base com esse nome será selecionada)");
                 collection_name = in.next();
 
                 try {
@@ -141,6 +138,8 @@ public class Main {
                         System.out.println("Comentários com tendência Positiva: "+ClassifierCount[0]);
                         System.out.println("Comentários com tendência Negativa: "+ClassifierCount[1]);
                         System.out.println("Comentários com tendência Neutra: "+ClassifierCount[2]);
+                        System.out.println("Calculando precisão do comparador...Por favor, aguarde!");
+                        System.out.println("Precisão do classificador de aproximadamente: "+ classifier.GetPrecision());
                         flag_end = true;
                     }
                     else{
